@@ -8,13 +8,13 @@ export default function Doing() {
         <div className="row">
           <div className="col-12">
             <div className="heading-section wow fadeInUp style-1 text-center">
-              <h6 className="tf-color-green">What We Doing</h6>
+              <h6 className="tf-color-green">What is Intellibyld?</h6>
               <div className="main-title">
-                AI-powered service that generates&nbsp;
-                <br /> code documentation, tests, and optimizations <br />
-                &nbsp;from your{" "}
+                The <span className="tf-color-green">AI Powered OS</span> that orchestrates your&nbsp;
+                <br /> construction supply chain through <br />
+                &nbsp;{" "}
                 <span className="animation-text tf-color-green">
-                  source code files
+                  Autonomous Execution
                 </span>
               </div>
             </div>
@@ -25,9 +25,7 @@ export default function Doing() {
                 <div className="icon">
                   <span className={item.icon} />
                 </div>
-                <h3>
-                  <a href={item.link}>{item.title}</a>
-                </h3>
+                <h3>{item.title}</h3>
                 <p>{item.description}</p>
               </div>
             </div>

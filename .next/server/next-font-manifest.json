@@ -1,0 +1,27 @@
+{
+  "app": {
+    "[project]/app/(about)/about/page": [],
+    "[project]/app/(about)/faqs/page": [],
+    "[project]/app/(about)/price/page": [],
+    "[project]/app/(blog)/blog-detail/[id]/page": [],
+    "[project]/app/(blog)/blog/page": [],
+    "[project]/app/(homes)/home-1/page": [],
+    "[project]/app/(homes)/home-2/page": [],
+    "[project]/app/(homes)/home-3/page": [],
+    "[project]/app/(homes)/home-4/page": [],
+    "[project]/app/(shop)/shop/page": [],
+    "[project]/app/(shop)/single-product/[id]/page": [],
+    "[project]/app/(use-cases)/use-cases-details/[id]/page": [],
+    "[project]/app/(use-cases)/use-cases/page": [],
+    "[project]/app/404/page": [],
+    "[project]/app/_not-found/page": [],
+    "[project]/app/agentic-ai/page": [],
+    "[project]/app/contact-us/page": [],
+    "[project]/app/digital-twins/page": [],
+    "[project]/app/page": [],
+    "[project]/app/sustainability/page": []
+  },
+  "appUsingSizeAdjust": false,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

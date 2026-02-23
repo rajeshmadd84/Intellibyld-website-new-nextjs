@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/public/assets/css/main.css"],"sourcesContent":["@import \"./style.css\";\r\n@import \"./responsive.css\";\r\n@import \"swiper/css/virtual\";\r\n@import \"swiper/css\";\r\n@import \"rc-slider/assets/index.css\";\r\n@import \"react-modal-video/css/modal-video.css\";\r\n@import \"./custom.css\";\r\n"],"names":[],"mappings":""}}]
+}

@@ -1,0 +1,18 @@
+{
+  "app": {
+    "[project]/app/(about)/about/page": [],
+    "[project]/app/(about)/faqs/page": [],
+    "[project]/app/(homes)/home-2/page": [],
+    "[project]/app/(homes)/home-3/page": [],
+    "[project]/app/(homes)/home-4/page": [],
+    "[project]/app/_not-found/page": [],
+    "[project]/app/agentic-ai/page": [],
+    "[project]/app/contact-us/page": [],
+    "[project]/app/digital-twins/page": [],
+    "[project]/app/page": [],
+    "[project]/app/sustainability/page": []
+  },
+  "appUsingSizeAdjust": false,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

@@ -2,8 +2,8 @@ import Footer2 from "@/components/footers/Footer2";
 import Header2 from "@/components/headers/Header2";
 import Banner from "@/components/homes/home-2/Banner";
 import Cta from "@/components/homes/home-2/Cta";
-import Design from "@/components/homes/home-2/Design";
-import Design2 from "@/components/homes/home-2/Design2";
+import DigitalTwin from "@/components/homes/home-2/DigitalTwin";
+import AgenticAi from "@/components/homes/home-2/AgenticAi";
 import Features from "@/components/homes/home-2/Features";
 import EditorLanguages from "@/components/homes/home-2/EditorLanguages";
 import Faq from "@/components/homes/home-2/Faq";
@@ -26,9 +26,9 @@ export default function page() {
             <Header2 />
             <Banner />
             <Features />
-            <Design />
+            <DigitalTwin />
             <EditorLanguages />
-            <Design2 />
+            <AgenticAi />
             <Pricing />
             <Partners />
             <Testimonials />

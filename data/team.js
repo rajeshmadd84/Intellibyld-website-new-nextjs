@@ -6,20 +6,8 @@ export const teamMembers = [
     role: "Creative Designer",
     socials: [
       {
-        platform: "facebook",
-        icon: "icon-facebook",
-      },
-      {
-        platform: "twitter",
-        icon: "icon-twitter",
-      },
-      {
         platform: "linkedin",
         icon: "icon-linkedin2",
-      },
-      {
-        platform: "instagram",
-        icon: "icon-instagram",
       },
     ],
   },
@@ -30,20 +18,8 @@ export const teamMembers = [
     role: "AI Code Developer",
     socials: [
       {
-        platform: "facebook",
-        icon: "icon-facebook",
-      },
-      {
-        platform: "twitter",
-        icon: "icon-twitter",
-      },
-      {
         platform: "linkedin",
         icon: "icon-linkedin2",
-      },
-      {
-        platform: "instagram",
-        icon: "icon-instagram",
       },
     ],
   },
@@ -54,20 +30,8 @@ export const teamMembers = [
     role: "Media Generator",
     socials: [
       {
-        platform: "facebook",
-        icon: "icon-facebook",
-      },
-      {
-        platform: "twitter",
-        icon: "icon-twitter",
-      },
-      {
         platform: "linkedin",
         icon: "icon-linkedin2",
-      },
-      {
-        platform: "instagram",
-        icon: "icon-instagram",
       },
     ],
   },
@@ -78,20 +42,44 @@ export const teamMembers = [
     role: "AI Image Designer",
     socials: [
       {
-        platform: "facebook",
-        icon: "icon-facebook",
+        platform: "linkedin",
+        icon: "icon-linkedin2",
       },
-      {
-        platform: "twitter",
-        icon: "icon-twitter",
-      },
+    ],
+  },
+  {
+    id: 5,
+    image: "/assets/images/team-member/image-04.jpg",
+    name: "Thomas R. Mummert",
+    role: "AI Image Designer",
+    socials: [
       {
         platform: "linkedin",
         icon: "icon-linkedin2",
       },
+    ],
+  },
+  {
+    id: 6,
+    image: "/assets/images/team-member/image-04.jpg",
+    name: "Thomas R. Mummert",
+    role: "AI Image Designer",
+    socials: [
       {
-        platform: "instagram",
-        icon: "icon-instagram",
+        platform: "linkedin",
+        icon: "icon-linkedin2",
+      },
+    ],
+  },
+  {
+    id: 7,
+    image: "/assets/images/team-member/image-04.jpg",
+    name: "Thomas R. Mummert",
+    role: "AI Image Designer",
+    socials: [
+      {
+        platform: "linkedin",
+        icon: "icon-linkedin2",
       },
     ],
   },

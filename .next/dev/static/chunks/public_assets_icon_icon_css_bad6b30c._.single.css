@@ -1,0 +1,309 @@
+/* [project]/public/assets/icon/icon.css [app-client] (css) */
+@font-face {
+  font-family: icomoon;
+  src: url("../media/icomoon.699e81b0.eot");
+  src: url("../media/icomoon.699e81b0.eot") format("embedded-opentype"), url("../media/icomoon.237efc8c.ttf") format("truetype"), url("../media/icomoon.8157b3d7.woff") format("woff"), url("../media/icomoon.3363fcc5.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  speak: never;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  font-family: icomoon !important;
+}
+
+.icon-view:before {
+  content: "";
+  color: #696969;
+}
+
+.icon-data:before {
+  content: "";
+  color: #696969;
+}
+
+.icon-clock:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-envelope:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-location:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-phone:before {
+  content: "";
+  color: #fff;
+}
+
+.icon-search:before {
+  content: "";
+  color: #696969;
+}
+
+.icon-user:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-gif:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-diamon:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-email:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-device:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-cart:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-folder:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-code:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-chart-network:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-folders:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-images:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-maintenance-1:before {
+  content: "";
+  color: #e6f85e;
+}
+
+.icon-project-1:before {
+  content: "";
+  color: #e6f85e;
+}
+
+.icon-write-1:before {
+  content: "";
+  color: #e6f85e;
+}
+
+.icon-copy-writing-1:before {
+  content: "";
+  color: #e6f85e;
+}
+
+.icon-internet-1:before {
+  content: "";
+  color: #e6f85e;
+}
+
+.icon-megaphone-1:before {
+  content: "";
+  color: #e6f85e;
+}
+
+.icon-network-2:before {
+  content: "";
+  color: #e6f85e;
+}
+
+.icon-network-1:before {
+  content: "";
+  color: #e6f85e;
+}
+
+.icon-wishlist-1:before {
+  content: "";
+  color: #e6f85e;
+}
+
+.icon-star:before {
+  content: "";
+  color: #f90;
+}
+
+.icon-mail:before {
+  content: "";
+  color: #3468f0;
+}
+
+.icon-gift:before {
+  content: "";
+  color: #fff;
+}
+
+.icon-laptop-code:before {
+  content: "";
+  color: #fff;
+}
+
+.icon-rocket-launch:before {
+  content: "";
+  color: #fff;
+}
+
+.icon-tick:before {
+  content: "";
+  color: #09b6a2;
+}
+
+.icon-play:before {
+  content: "";
+  color: #fff;
+}
+
+.icon-blog:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-comment:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-chart-line:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-share:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-users:before {
+  content: "";
+  color: #fff;
+}
+
+.icon-address:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-setting:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-pen:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-maintenance:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-toolbox:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-alarm-clock:before {
+  content: "";
+  color: #6844ed;
+}
+
+.icon-tiktok:before {
+  content: "";
+}
+
+.icon-heart:before {
+  content: "";
+  color: #fff;
+}
+
+.icon-linkedin2:before {
+  content: "";
+}
+
+.icon-twitter:before {
+  content: "";
+}
+
+.icon-instagram:before {
+  content: "";
+}
+
+.icon-facebook:before {
+  content: "";
+}
+
+.icon-arrow-up2:before {
+  content: "";
+}
+
+.icon-arrow-right2:before {
+  content: "";
+}
+
+.icon-arrow-down2:before {
+  content: "";
+}
+
+.icon-arrow-left2:before {
+  content: "";
+}
+
+.icon-check:before {
+  content: "";
+}
+
+.icon-arrow-up:before {
+  content: "";
+}
+
+.icon-arrow-right:before {
+  content: "";
+}
+
+.icon-arrow-left:before {
+  content: "";
+}
+
+.icon-arrow-down:before {
+  content: "";
+}
+
+/*# sourceMappingURL=public_assets_icon_icon_css_bad6b30c._.single.css.map*/

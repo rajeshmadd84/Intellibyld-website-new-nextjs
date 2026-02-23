@@ -52,53 +52,25 @@ export const menuItems = [
   {
     id: 3,
     text: "Use Cases",
-    url: "#",
-    subMenu: [
-      {
-        text: "Use Cases",
-        url: "/use-cases",
-      },
-      {
-        text: "Use Cases Detail",
-        url: "/use-cases-details/1",
-      },
-    ],
-    hasChildren: true,
+    url: "/use-cases",
   },
   {
     id: 4,
-    text: "Shop",
-    url: "#",
-    subMenu: [
-      {
-        text: "Shop",
-        url: "/shop",
-      },
-      {
-        text: "Single Product",
-        url: "/single-product/1",
-      },
-    ],
-    hasChildren: true,
+    text: "Agentic AI",
+    url: "/agentic-ai",
   },
   {
     id: 5,
-    text: "Blog",
-    url: "#",
-    subMenu: [
-      {
-        text: "Blog",
-        url: "/blog",
-      },
-      {
-        text: "Blog Detail",
-        url: "/blog-detail/1",
-      },
-    ],
-    hasChildren: true,
+    text: "Digital Twins",
+    url: "/digital-twins",
   },
   {
     id: 6,
+    text: "Sustainability",
+    url: "/sustainability",
+  },
+  {
+    id: 7,
     text: "Contact",
     url: "/contact-us",
   },

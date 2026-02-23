@@ -2443,13 +2443,13 @@ ul.wg-menu li a:hover {
 
 .flat-title-page .item1 {
   position: absolute;
-  top: 202px;
-  left: -59px;
-  width: 160px;
-  height: 29px;
-  transform: rotate(-20.673deg);
-  background: #61ff00;
-  filter: blur(40px);
+  top: 0;
+  right: 0;
+  width: 565px;
+  height: 514px;
+  background: linear-gradient(180deg, #09b6a2 0%, rgba(9, 182, 162, 0) 100%);
+  opacity: 0.8;
+  filter: blur(150px);
 }
 
 .flat-title-page .item2 {
@@ -2459,7 +2459,7 @@ ul.wg-menu li a:hover {
   width: 102px;
   height: 102px;
   border-radius: 50%;
-  background: #00fff0;
+  background: rgba(9, 182, 162, 0.4);
   filter: blur(50px);
 }
 
@@ -2470,7 +2470,7 @@ ul.wg-menu li a:hover {
   width: 160px;
   height: 29px;
   transform: rotate(-20.673deg);
-  background: #ff00e5;
+  background: rgba(9, 182, 162, 0.6);
   filter: blur(40px);
 }
 
@@ -2481,7 +2481,7 @@ ul.wg-menu li a:hover {
   width: 223px;
   height: 223px;
   border-radius: 50%;
-  background: #ece30a;
+  background: rgba(9, 182, 162, 0.3);
   filter: blur(50px);
 }
 
@@ -2509,9 +2509,7 @@ ul.wg-menu li a:hover {
 }
 
 .flat-title-page .heading span {
-  font-family: "Playfair Display";
-  font-style: italic;
-  color: #6844ed;
+  color: #09b6a2;
 }
 
 .breadcrumbs {

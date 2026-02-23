@@ -1192,8 +1192,6 @@
 
 .heading-section .main-title span {
   color: #6844ed;
-  font-family: "Playfair Display";
-  font-style: italic;
   line-height: 51px;
 }
 
@@ -3434,8 +3432,6 @@ ul.list-item li .icon-tick::before {
 }
 
 .wg-banner-2 .content .title span {
-  font-family: "Playfair Display";
-  font-style: italic;
   line-height: 67px;
 }
 
@@ -3464,6 +3460,9 @@ ul.list-item li .icon-tick::before {
   border-radius: 17px;
   box-shadow: 0px 20px 40px 0px rgba(9, 182, 162, 0.2);
   animation: to-top 5s infinite linear;
+  width: 667px;
+  height: 370px;
+  object-fit: cover;
 }
 
 .wg-banner-2 .image .item-3 {
@@ -3498,17 +3497,22 @@ ul.list-item li .icon-tick::before {
   padding: 35px 50px 25px;
   text-align: center;
   border-radius: 40px;
-  border: 1px solid rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(9, 182, 162, 0.25);
   background: linear-gradient(
     163deg,
     rgba(255, 255, 255, 0.15) 0%,
     rgba(9, 182, 162, 0.1) 100%
   );
+  box-shadow: 0 0 15px rgba(9, 182, 162, 0.15), 0 0 30px rgba(9, 182, 162, 0.05);
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .doing-item.active {
@@ -3520,7 +3524,8 @@ ul.list-item li .icon-tick::before {
 }
 
 .doing-item:hover {
-  box-shadow: 0px 0px 15px rgba(9, 182, 162, 0.1);
+  box-shadow: 0 0 20px rgba(9, 182, 162, 0.3), 0 0 40px rgba(9, 182, 162, 0.1);
+  border-color: rgba(9, 182, 162, 0.4);
 }
 
 .doing-item .icon {
@@ -3545,22 +3550,20 @@ ul.list-item li .icon-tick::before {
   background: linear-gradient(145deg, #09b6a2 0%, #55eddb 100%);
 }
 
-.doing-item h3 a {
+.doing-item h3 {
   margin-bottom: 25px;
-}
-
-.doing-item h3 a {
-  color: #fff;
-  letter-spacing: -0.72px;
-}
-
-.doing-item h3 a:hover {
   color: rgba(9, 182, 162, 1);
+  letter-spacing: -0.72px;
+  min-height: 2.8em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .doing-item p {
   margin-top: 8px;
   color: #c8c8c8;
+  flex: 1;
 }
 
 /* wg-testimonials */
@@ -4745,7 +4748,11 @@ ul.list-item li .icon-tick::before {
   left: 0;
   width: 100%;
   height: 1377px;
-  background: linear-gradient(180deg, rgba(235, 235, 253, 0) 0%, #ebebfd 100%);
+  background: none;
+}
+
+.member-item {
+  margin-bottom: 40px;
 }
 
 .member-item .image {
@@ -4756,6 +4763,8 @@ ul.list-item li .icon-tick::before {
 .member-item .image img {
   border-radius: 14px;
   width: 100%;
+  height: 285px;
+  object-fit: cover;
 }
 
 .member-item .image ul {
@@ -4805,7 +4814,7 @@ ul.list-item li .icon-tick::before {
 }
 
 .member-item .content h4 a {
-  color: #030014;
+  color: #fff;
 }
 
 .member-item .content h4 :hover {
@@ -5996,4 +6005,102 @@ iframe.map {
 
 .page-404-wrap img {
   margin-left: 9px;
+}
+
+/* Flowchart */
+/* -------------------------------------------------- */
+.wg-flowchart {
+  position: relative;
+}
+
+.flowchart-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  gap: 0;
+}
+
+.flowchart-card {
+  flex: 1;
+  max-width: 280px;
+  background: #fff;
+  border: 1px solid rgba(9, 182, 162, 0.2);
+  border-radius: 16px;
+  padding: 30px 24px;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 0 15px rgba(9, 182, 162, 0.1);
+  transition: all 0.3s ease;
+}
+
+.flowchart-card:hover {
+  box-shadow: 0 0 25px rgba(9, 182, 162, 0.25), 0 0 50px rgba(9, 182, 162, 0.1);
+  transform: translateY(-4px);
+}
+
+.flowchart-step {
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+  background: rgba(9, 182, 162, 1);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 16px;
+}
+
+.flowchart-icon {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: rgba(9, 182, 162, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 16px;
+  font-size: 24px;
+  color: rgba(9, 182, 162, 1);
+}
+
+.flowchart-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #030014;
+  margin-bottom: 12px;
+}
+
+.flowchart-desc {
+  font-size: 14px;
+  line-height: 22px;
+  color: #696969;
+}
+
+.flowchart-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;
+  font-size: 24px;
+  color: rgba(9, 182, 162, 1);
+}
+
+@media (max-width: 991px) {
+  .flowchart-row {
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+  }
+
+  .flowchart-card {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .flowchart-arrow {
+    transform: rotate(90deg);
+    padding: 10px 0;
+  }
 }

@@ -32,7 +32,7 @@ export default function Header2() {
                   <Link href={`/`} rel="home" className="main-logo">
                     <Image
                       id="logo_header"
-                      src="/assets/images/logo/logo-green.png"
+                      src="/assets/images/logo/logo-white.svg"
                       width={166}
                       alt="image"
                       height={40}
@@ -77,11 +77,11 @@ export default function Header2() {
           <Link href={`/`} rel="home" className="main-logo">
             <Image
               id="mobile-logo_header"
-              src="/assets/images/logo/logo.png"
+              src="/assets/images/logo/logo-white.svg"
               width={166}
               height={40}
               alt="image"
-              data-retina="/assets/images/logo/logo@2x.png"
+              data-retina="/assets/images/logo/logo-white@2x.png"
             />
           </Link>
           <div

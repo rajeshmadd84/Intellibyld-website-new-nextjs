@@ -52,26 +52,23 @@ export const features = [
   {
     id: 1,
     icon: "icon-laptop-code",
-    title: "Coding Superpowers",
+    title: "Construction-Trained Intelligence",
     description:
-      "At vero eos et accusamus et iusto odio dignissimos ducim blanditiis",
-    link: "#",
+      "Our Small Language Model(SLM) is fine-tuned specifically on construction data, allowing it to understand the deep nuances of project logistics and make high-stakes autonomous decisions.",
   },
   {
     id: 2,
     icon: "icon-rocket-launch",
-    title: "AI Autocomplete",
+    title: "Real-Time Digital Twins",
     description:
-      "At vero eos et accusamus et iusto odio dignissimos ducim blanditiis",
-    link: "#",
+      "We build a live virtual map of every material's journey. Spot threats and identify opportunities before they disrupt your site, keeping your schedule perfectly in sync.",
   },
   {
     id: 3,
     icon: "icon-gift",
-    title: "Free Coding Forever",
+    title: "Agentic Workflow Automation",
     description:
-      "At vero eos et accusamus et iusto odio dignissimos ducim blanditiis",
-    link: "#",
+      "Seamlessly integrate with BIM, ERP, and PM software. Our Agentic AI automates RFQs, shipment tracking, and bidding evaluations so your team can focus on building.",
   },
 ];
 

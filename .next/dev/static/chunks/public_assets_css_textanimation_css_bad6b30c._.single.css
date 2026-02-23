@@ -1,0 +1,283 @@
+/* [project]/public/assets/css/textanimation.css [app-client] (css) */
+.animationtext {
+  height: 70px;
+  overflow: hidden;
+}
+
+.cd-words-wrapper {
+  text-align: left;
+  display: inline-block;
+  position: relative;
+}
+
+.cd-words-wrapper .item-text {
+  white-space: nowrap;
+  font-weight: inherit;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.cd-words-wrapper .item-text.is-visible {
+  position: relative;
+}
+
+.no-js .cd-words-wrapper .item-text {
+  opacity: 0;
+}
+
+.no-js .cd-words-wrapper .item-text.is-visible {
+  opacity: 1;
+}
+
+.animationtext.slide span {
+  display: inline-block;
+}
+
+.animationtext.slide .cd-words-wrapper {
+  vertical-align: top;
+  overflow: hidden;
+}
+
+.animationtext.slide .item-text {
+  opacity: 0;
+  top: .2em;
+}
+
+.animationtext.slide .item-text.is-visible {
+  opacity: 1;
+  animation: .6s slide-in;
+  top: 0;
+}
+
+.animationtext.slide .item-text.is-hidden {
+  animation: .6s slide-out;
+}
+
+@-webkit-keyframes slide-in {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(-100%);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translateY(20%);
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+  }
+}
+
+@-moz-keyframes slide-in {
+  0% {
+    opacity: 0;
+    -moz-transform: translateY(-100%);
+  }
+
+  60% {
+    opacity: 1;
+    -moz-transform: translateY(20%);
+  }
+
+  100% {
+    opacity: 1;
+    -moz-transform: translateY(0);
+  }
+}
+
+@keyframes slide-in {
+  0% {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+
+  60% {
+    opacity: 1;
+    transform: translateY(20%);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@-webkit-keyframes slide-out {
+  0% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+  }
+
+  60% {
+    opacity: 0;
+    -webkit-transform: translateY(120%);
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: translateY(100%);
+  }
+}
+
+@-moz-keyframes slide-out {
+  0% {
+    opacity: 1;
+    -moz-transform: translateY(0);
+  }
+
+  60% {
+    opacity: 0;
+    -moz-transform: translateY(120%);
+  }
+
+  100% {
+    opacity: 0;
+    -moz-transform: translateY(100%);
+  }
+}
+
+@keyframes slide-out {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  60% {
+    opacity: 0;
+    transform: translateY(120%);
+  }
+
+  100% {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+}
+
+.animationtext.clip span {
+  padding: 0;
+  display: inline-block;
+}
+
+.animationtext.clip .cd-words-wrapper {
+  vertical-align: top;
+  overflow: hidden;
+}
+
+.animationtext.clip .cd-words-wrapper:after {
+  content: "";
+  background-color: #aebcb9;
+  width: 2px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.animationtext.clip .item-text {
+  opacity: 0;
+}
+
+.animationtext.clip .item-text.is-visible {
+  opacity: 1;
+}
+
+.animationtext.rotate-3 .cd-words-wrapper {
+  perspective: 300px;
+}
+
+.animationtext.rotate-3 .item-text {
+  opacity: 0;
+}
+
+.animationtext.rotate-3 i {
+  backface-visibility: hidden;
+  display: inline-block;
+  transform: rotateY(180deg);
+}
+
+.is-visible .animationtext.rotate-3 i {
+  transform: rotateY(0);
+}
+
+.animationtext.rotate-3 i.in {
+  animation: .6s forwards cd-rotate-3-in;
+}
+
+.animationtext.rotate-3 i.out {
+  animation: .6s forwards cd-rotate-3-out;
+}
+
+.no-csstransitions .animationtext.rotate-3 i {
+  opacity: 0;
+  transform: rotateY(0);
+}
+
+.no-csstransitions .animationtext.rotate-3 .is-visible i {
+  opacity: 1;
+}
+
+@-webkit-keyframes cd-rotate-3-in {
+  0% {
+    -webkit-transform: rotateY(180deg);
+  }
+
+  100% {
+    -webkit-transform: rotateY(0);
+  }
+}
+
+@-moz-keyframes cd-rotate-3-in {
+  0% {
+    -moz-transform: rotateY(180deg);
+  }
+
+  100% {
+    -moz-transform: rotateY(0);
+  }
+}
+
+@keyframes cd-rotate-3-in {
+  0% {
+    transform: rotateY(180deg);
+  }
+
+  100% {
+    transform: rotateY(0);
+  }
+}
+
+@-webkit-keyframes cd-rotate-3-out {
+  0% {
+    -webkit-transform: rotateY(0);
+  }
+
+  100% {
+    -webkit-transform: rotateY(-180deg);
+  }
+}
+
+@-moz-keyframes cd-rotate-3-out {
+  0% {
+    -moz-transform: rotateY(0);
+  }
+
+  100% {
+    -moz-transform: rotateY(-180deg);
+  }
+}
+
+@keyframes cd-rotate-3-out {
+  0% {
+    transform: rotateY(0);
+  }
+
+  100% {
+    transform: rotateY(-180deg);
+  }
+}
+
+/*# sourceMappingURL=public_assets_css_textanimation_css_bad6b30c._.single.css.map*/
