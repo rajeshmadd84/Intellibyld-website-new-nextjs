@@ -11,14 +11,7 @@ export default function FlatTitle() {
         <div className="row">
           <div className="col-12">
             <div className="heading">Contact Us</div>
-            <ul className="breadcrumbs">
-              <li className="icon-arrow-right relative">
-                <Link href={`/`}>Home</Link>
-              </li>
-              <li className="active">
-                <a href="#">Contact Us</a>
-              </li>
-            </ul>
+            
           </div>
         </div>
       </div>

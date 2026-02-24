@@ -361,11 +361,11 @@
   }
 
   .main-nav {
-    display: none;
+    display: none !important;
   }
 
   .mobile-button {
-    display: block;
+    display: block !important;
   }
 
   .wg-review, .recent-news-item {

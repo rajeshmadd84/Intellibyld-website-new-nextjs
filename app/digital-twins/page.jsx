@@ -1,10 +1,13 @@
 import Cta from "@/components/common/Cta";
 import Mouse from "@/components/common/Mouse";
 import ScrollTop from "@/components/common/ScrollTop";
-import Footer1 from "@/components/footers/Footer1";
-import Header1 from "@/components/headers/Header1";
+import Footer2 from "@/components/footers/Footer2";
+import Header2 from "@/components/headers/Header2";
 import Faq from "@/components/digital-twins/Faq";
+import DigitalTwin1 from "@/components/digital-twins/DigitalTwin1";
+import DigitalTwin2 from "@/components/digital-twins/DigitalTwin2";
 import Features from "@/components/digital-twins/Features";
+import Features3 from "@/components/digital-twins/Features3";
 import FlatTitle from "@/components/digital-twins/FlatTitle";
 import Tools from "@/components/digital-twins/Tools";
 import React from "react";
@@ -20,16 +23,18 @@ export default function page() {
     <>
       <div id="wrapper">
         <div id="page" className="">
-          <Header1 />
+          <Header2 />
           <FlatTitle />
+          <DigitalTwin1 />
+          <DigitalTwin2 />
           <Tools />
-          <Features />
-          <Faq />
-          <Cta />
-          <Footer1 />
+          
+          <Features3 />
+          
+          <Footer2 />
         </div>
       </div>
-      <Mouse />
+      
       <ScrollTop />
     </>
   );

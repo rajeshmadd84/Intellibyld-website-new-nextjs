@@ -1112,35 +1112,6 @@ const menuItems = [
         isActive: true
     },
     {
-        id: 2,
-        text: "About Us",
-        url: "#",
-        subMenu: [
-            {
-                text: "About",
-                url: "/about"
-            },
-            {
-                text: "FAQs",
-                url: "/faqs"
-            },
-            {
-                text: "404",
-                url: "/404"
-            },
-            {
-                text: "Price",
-                url: "/price"
-            }
-        ],
-        hasChildren: true
-    },
-    {
-        id: 3,
-        text: "Use Cases",
-        url: "/use-cases"
-    },
-    {
         id: 4,
         text: "Agentic AI",
         url: "/agentic-ai"

@@ -1,13 +1,11 @@
 {
-  "/(about)/about/page": "app/(about)/about/page.js",
-  "/(about)/faqs/page": "app/(about)/faqs/page.js",
-  "/(homes)/home-2/page": "app/(homes)/home-2/page.js",
+  "/(homes)/home-1/page": "app/(homes)/home-1/page.js",
   "/(homes)/home-3/page": "app/(homes)/home-3/page.js",
   "/(homes)/home-4/page": "app/(homes)/home-4/page.js",
+  "/(use-cases)/use-cases-details/[id]/page": "app/(use-cases)/use-cases-details/[id]/page.js",
+  "/(use-cases)/use-cases/page": "app/(use-cases)/use-cases/page.js",
   "/_not-found/page": "app/_not-found/page.js",
   "/agentic-ai/page": "app/agentic-ai/page.js",
-  "/contact-us/page": "app/contact-us/page.js",
   "/digital-twins/page": "app/digital-twins/page.js",
-  "/page": "app/page.js",
-  "/sustainability/page": "app/sustainability/page.js"
+  "/page": "app/page.js"
 }

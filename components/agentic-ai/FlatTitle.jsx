@@ -11,16 +11,9 @@ export default function FlatTitle() {
         <div className="row">
           <div className="col-12">
             <div className="heading">
-              Agentic <span>AI</span>
+              Agentic AI: <span>The Digital Workforce</span>
             </div>
-            <ul className="breadcrumbs">
-              <li className="icon-arrow-right relative">
-                <Link href={`/`}>Home</Link>
-              </li>
-              <li className="active">
-                <a href="#">Agentic AI</a>
-              </li>
-            </ul>
+            
           </div>
         </div>
       </div>

@@ -86,29 +86,29 @@ export const agenticAiFlowchart = [
   {
     step: 1,
     icon: "icon-setting",
-    title: "Ingest & Understand",
+    title: "Detect & Flag",
     description:
-      "AI agents connect to your BIM models, ERP systems, and project schedules to build a unified view of every material requirement.",
+      "Agents monitor live shipping, Email and WhatsApp logs to identify supplier delays before they reach the site.",
   },
   {
     step: 2,
     icon: "icon-chart-network",
-    title: "Plan & Procure",
+    title: "Analyze Impact",
     description:
-      "Agents autonomously generate RFQs, evaluate vendor bids, and recommend optimal procurement strategies in real time.",
+      "AI cross-references the Digital Twin to pinpoint every labor crew and task affected by the missing material.",
   },
   {
     step: 3,
     icon: "icon-maintenance",
-    title: "Execute & Monitor",
+    title: "Pivot & Re-align",
     description:
-      "Shipments are orchestrated end-to-end with live tracking, automated rerouting, and proactive exception handling.",
+      "The system autonomously re-sequences the schedule, shifting crews to unaffected tasks to maintain momentum.",
   },
   {
     step: 4,
     icon: "icon-rocket-launch",
-    title: "Learn & Optimise",
+    title: "Sync & Track",
     description:
-      "Every outcome feeds back into the model, continuously improving forecasts, scheduling, and cost efficiency for future projects.",
+      "Automatically notifies stakeholders of changes while continuously tracking the delay until the site is back in sync.",
   },
 ];

@@ -32,7 +32,7 @@ export default function page() {
           <Footer2 />
         </div>
       </div>
-      <Mouse />
+      
       <ScrollTop />
     </>
   );

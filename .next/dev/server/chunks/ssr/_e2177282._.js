@@ -18,7 +18,7 @@ function Footer2() {
         id: "footer",
         className: "style-1",
         style: {
-            background: "linear-gradient(180deg, rgba(9, 182, 162, 0.08) 0%, rgba(0, 0, 0, 0.9) 100%)",
+            background: "linear-gradient(180deg, #0a1a17 0%, #0d0d0d 100%)",
             marginBottom: "30px",
             paddingTop: "100px",
             paddingBottom: "40px"
@@ -196,35 +196,6 @@ const menuItems = [
         ],
         hasChildren: true,
         isActive: true
-    },
-    {
-        id: 2,
-        text: "About Us",
-        url: "#",
-        subMenu: [
-            {
-                text: "About",
-                url: "/about"
-            },
-            {
-                text: "FAQs",
-                url: "/faqs"
-            },
-            {
-                text: "404",
-                url: "/404"
-            },
-            {
-                text: "Price",
-                url: "/price"
-            }
-        ],
-        hasChildren: true
-    },
-    {
-        id: 3,
-        text: "Use Cases",
-        url: "/use-cases"
     },
     {
         id: 4,
@@ -575,7 +546,7 @@ function Header2() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     onClick: ()=>setIsMobileMenuActive(true),
-                                    className: "mobile-button hidden",
+                                    className: "mobile-button",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {}, void 0, false, {
                                         fileName: "[project]/components/headers/Header2.jsx",
                                         lineNumber: 64,

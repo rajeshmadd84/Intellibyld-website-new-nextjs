@@ -12,7 +12,6 @@ import Pricing from "@/components/homes/home-2/Pricing";
 import Team from "@/components/homes/home-2/Team";
 import Testimonials from "@/components/homes/home-2/Testimonials";
 import React from "react";
-import Mouse from "@/components/common/Mouse";
 import ScrollTop from "@/components/common/ScrollTop";
 export const metadata = {
   title: "Home 2 || MunAi - AI Writer & Copywriting Nextjs Template",
@@ -36,7 +35,6 @@ export default function page() {
             
           </div>
         </div>{" "}
-        <Mouse />
         <ScrollTop />
       </div>
     </>

@@ -6011,6 +6011,8 @@ iframe.map {
 /* -------------------------------------------------- */
 .wg-flowchart {
   position: relative;
+  background: #fff;
+  overflow: hidden;
 }
 
 .flowchart-row {

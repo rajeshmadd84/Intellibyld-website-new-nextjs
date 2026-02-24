@@ -8,7 +8,7 @@ export default function Footer2() {
       id="footer"
       className="style-1"
       style={{
-        background: "linear-gradient(180deg, rgba(9, 182, 162, 0.08) 0%, rgba(0, 0, 0, 0.9) 100%)",
+        background: "linear-gradient(180deg, #0a1a17 0%, #0d0d0d 100%)",
         marginBottom: "30px",
         paddingTop: "100px",
         paddingBottom: "40px",

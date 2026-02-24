@@ -452,26 +452,26 @@ const agenticAiFlowchart = [
     {
         step: 1,
         icon: "icon-setting",
-        title: "Ingest & Understand",
-        description: "AI agents connect to your BIM models, ERP systems, and project schedules to build a unified view of every material requirement."
+        title: "Detect & Flag",
+        description: "Agents monitor live shipping, Email and WhatsApp logs to identify supplier delays before they reach the site."
     },
     {
         step: 2,
         icon: "icon-chart-network",
-        title: "Plan & Procure",
-        description: "Agents autonomously generate RFQs, evaluate vendor bids, and recommend optimal procurement strategies in real time."
+        title: "Analyze Impact",
+        description: "AI cross-references the Digital Twin to pinpoint every labor crew and task affected by the missing material."
     },
     {
         step: 3,
         icon: "icon-maintenance",
-        title: "Execute & Monitor",
-        description: "Shipments are orchestrated end-to-end with live tracking, automated rerouting, and proactive exception handling."
+        title: "Pivot & Re-align",
+        description: "The system autonomously re-sequences the schedule, shifting crews to unaffected tasks to maintain momentum."
     },
     {
         step: 4,
         icon: "icon-rocket-launch",
-        title: "Learn & Optimise",
-        description: "Every outcome feeds back into the model, continuously improving forecasts, scheduling, and cost efficiency for future projects."
+        title: "Sync & Track",
+        description: "Automatically notifies stakeholders of changes while continuously tracking the delay until the site is back in sync."
     }
 ];
 }),
@@ -514,11 +514,11 @@ function Features() {
                                 color: "#000"
                             },
                             children: [
-                                "From Data to Autonomous",
+                                "Autonomous Delay ",
                                 " ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "tf-color-green",
-                                    children: "Execution"
+                                    children: "Neutralization"
                                 }, void 0, false, {
                                     fileName: "[project]/components/agentic-ai/Features.jsx",
                                     lineNumber: 12,
@@ -676,65 +676,24 @@ function FlatTitle() {
                     className: "row",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "col-12",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "heading",
-                                children: [
-                                    "Agentic ",
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "AI"
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/agentic-ai/FlatTitle.jsx",
-                                        lineNumber: 14,
-                                        columnNumber: 23
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/components/agentic-ai/FlatTitle.jsx",
-                                lineNumber: 13,
-                                columnNumber: 13
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                className: "breadcrumbs",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                        className: "icon-arrow-right relative",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                            href: `/`,
-                                            children: "Home"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/agentic-ai/FlatTitle.jsx",
-                                            lineNumber: 18,
-                                            columnNumber: 17
-                                        }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/agentic-ai/FlatTitle.jsx",
-                                        lineNumber: 17,
-                                        columnNumber: 15
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                        className: "active",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                            href: "#",
-                                            children: "Agentic AI"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/agentic-ai/FlatTitle.jsx",
-                                            lineNumber: 21,
-                                            columnNumber: 17
-                                        }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/agentic-ai/FlatTitle.jsx",
-                                        lineNumber: 20,
-                                        columnNumber: 15
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/components/agentic-ai/FlatTitle.jsx",
-                                lineNumber: 16,
-                                columnNumber: 13
-                            }, this)
-                        ]
-                    }, void 0, true, {
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "heading",
+                            children: [
+                                "Agentic AI: ",
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    children: "The Digital Workforce"
+                                }, void 0, false, {
+                                    fileName: "[project]/components/agentic-ai/FlatTitle.jsx",
+                                    lineNumber: 14,
+                                    columnNumber: 27
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/components/agentic-ai/FlatTitle.jsx",
+                            lineNumber: 13,
+                            columnNumber: 13
+                        }, this)
+                    }, void 0, false, {
                         fileName: "[project]/components/agentic-ai/FlatTitle.jsx",
                         lineNumber: 12,
                         columnNumber: 11
@@ -1389,11 +1348,6 @@ function page() {
             }, void 0, false, {
                 fileName: "[project]/app/agentic-ai/page.jsx",
                 lineNumber: 23,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$common$2f$Mouse$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                fileName: "[project]/app/agentic-ai/page.jsx",
-                lineNumber: 35,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$common$2f$ScrollTop$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {

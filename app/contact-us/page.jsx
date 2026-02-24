@@ -6,11 +6,11 @@ import ContactInfo from "@/components/contact/ContactInfo";
 import FlatTitle from "@/components/contact/FlatTitle";
 import Map from "@/components/contact/Map";
 import Message from "@/components/contact/Message";
-import Footer1 from "@/components/footers/Footer1";
-import Header1 from "@/components/headers/Header1";
+import Footer2 from "@/components/footers/Footer2";
+import Header2 from "@/components/headers/Header2";
 export const metadata = {
-  title: "Contact Us || MunAi - AI Writer & Copywriting Nextjs Template",
-  description: "MunAi - AI Writer & Copywriting Nextjs Template",
+  title: "Contact Us || Intellibyld - The OS for Construction Supply Chains",
+  description: "Intellibyld - The OS for Construction Supply Chains",
 };
 import React from "react";
 
@@ -19,7 +19,7 @@ export default function page() {
     <>
       <div id="wrapper">
         <div id="page" className="">
-          <Header1 />
+          <Header2 />
           <FlatTitle />
           <ContactInfo />
           <Message />
@@ -27,10 +27,10 @@ export default function page() {
 
           <Cta />
 
-          <Footer1 />
+          <Footer2 />
         </div>
       </div>
-      <Mouse />
+      
       <ScrollTop />
     </>
   );

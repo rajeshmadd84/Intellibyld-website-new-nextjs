@@ -8,8 +8,8 @@ export default function Features() {
         <div className="heading-section wow fadeInUp text-center" style={{ marginBottom: 60 }}>
           <h6 className="tf-color-green">How It Works</h6>
           <div className="main-title" style={{ color: "#000" }}>
-            From Data to Autonomous{" "}
-            <span className="tf-color-green">Execution</span>
+            Autonomous Delay {" "}
+            <span className="tf-color-green">Neutralization</span>
           </div>
         </div>
         <div className="flowchart-row">

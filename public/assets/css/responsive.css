@@ -306,10 +306,10 @@
         margin: 0 !important;
     }
     .main-nav {
-        display: none;
+        display: none !important;
     }
     .mobile-button {
-        display: block;
+        display: block !important;
     }
     .wg-review {
         flex-wrap: wrap;

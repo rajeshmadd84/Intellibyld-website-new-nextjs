@@ -59,7 +59,7 @@ export default function Header2() {
               </div>
               <div
                 onClick={() => setIsMobileMenuActive(true)}
-                className="mobile-button hidden"
+                className="mobile-button"
               >
                 <span />
               </div>

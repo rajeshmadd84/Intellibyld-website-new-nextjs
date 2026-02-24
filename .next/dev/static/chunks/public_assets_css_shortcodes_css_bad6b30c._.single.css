@@ -5544,7 +5544,9 @@ iframe.map {
 }
 
 .wg-flowchart {
+  background: #fff;
   position: relative;
+  overflow: hidden;
 }
 
 .flowchart-row {
