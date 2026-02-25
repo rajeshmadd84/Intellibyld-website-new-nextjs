@@ -2340,11 +2340,11 @@ ul.list-item li .icon-tick:before {
 }
 
 .road-map-item.item-3 {
-  margin-top: -48px;
+  margin-top: 60px;
 }
 
 .road-map-item.item-4 {
-  margin-top: 80px;
+  margin-top: 126px;
   margin-bottom: 72px;
 }
 
@@ -3527,9 +3527,10 @@ ul.list-item li .icon-tick:before {
 
 .doing-item {
   text-align: center;
+  box-shadow: none;
   -o-transition: all .3s ease-in-out;
-  background: linear-gradient(163deg, #ffffff26 0%, #09b6a21a 100%);
-  border: 1px solid #09b6a240;
+  background: #fff;
+  border: 2px solid #09b6a2;
   border-radius: 40px;
   flex-direction: column;
   align-items: center;
@@ -3537,11 +3538,10 @@ ul.list-item li .icon-tick:before {
   padding: 35px 50px 25px;
   transition: all .3s ease-in-out;
   display: flex;
-  box-shadow: 0 0 15px #09b6a226, 0 0 30px #09b6a20d;
 }
 
 .doing-item.active {
-  background: linear-gradient(163deg, #09b6a21a 0%, #ffffff1a 100%);
+  background: #fff;
 }
 
 .doing-item:hover {
@@ -3578,9 +3578,10 @@ ul.list-item li .icon-tick:before {
 }
 
 .doing-item p {
-  color: #c8c8c8;
+  color: #000;
   flex: 1;
   margin-top: 8px;
+  font-size: 18px;
 }
 
 .wg-testimonials.bg-line:before {

@@ -63,3 +63,72 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [00:23:57.708] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [00:23:57.854] Browser WARN    Image with src "http://localhost:3000/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
 [00:24:38.057] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[10:39:28.810] Server  LOG     ✓ Compiled in 3.8s
+[10:43:15.435] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[10:43:15.632] Browser WARN    Image with src "http://localhost:3000/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[10:47:28.406] Server  LOG     ✓ Compiled in 691ms
+[11:15:14.066] Server  LOG     ✓ Compiled in 1115ms
+[11:16:42.002] Server  LOG     ✓ Compiled in 323ms
+[11:38:27.811] Server  LOG     ✓ Compiled in 389ms
+[11:38:54.738] Server  LOG     ✓ Compiled in 212ms
+[11:39:34.567] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:40:42.461] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[11:40:42.852] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+      <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+        <RedirectBoundary>
+          <RedirectErrorBoundary router={{...}}>
+            <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} segmentPath={[...]} ...>
+              <SegmentViewNode type="page" pagePath="page.jsx">
+                <SegmentTrieNode>
+                <page>
+                  <div className="page-green">
+                    <div id="wrapper">
+                      <div id="page" className="home2">
+                        <Header2>
+                        <Banner>
+                          <div className="wg-banner-2">
+                            <div>
+                            <div className="themesflat...">
+                              <div className="row">
+                                <div>
+                                <div className="col-xl-6 c...">
+                                  <div className="image rela...">
+-                                   <div
+-                                     style={{position:"absolute",top:"65px",left:"19px",z-index:"1000",cursor:"pointer",opacity:"1", ...}}
+-                                   >
+                        ...
+                    ...
+              ...
+            ...
+
+[11:40:42.852] Browser WARN    Image with src "http://localhost:3000/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:40:42.852] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[12:12:14.668] Server  LOG     ✓ Compiled in 900ms
+[12:12:15.994] Server  ERROR   ⨯ ReferenceError: Features1 is not defined
+[12:12:16.794] Browser ERROR   uncaughtError: ReferenceError: Features1 is not defined
+[12:12:32.808] Server  LOG     ✓ Compiled in 920ms
+[12:12:36.946] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[12:12:37.790] Browser WARN    Image with src "http://localhost:3000/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[12:14:47.226] Server  LOG     ✓ Compiled in 264ms
+[12:15:48.096] Server  LOG     ✓ Compiled in 1993ms
+[12:15:53.418] Server  LOG     ✓ Compiled in 125ms
+[15:04:42.308] Server  LOG     ✓ Compiled in 3.2s
+[15:13:37.845] Server  LOG     ✓ Compiled in 932ms
+[32:43:52.371] Server  LOG     ✓ Compiled in 734ms
+[32:44:02.794] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[32:44:02.968] Browser WARN    Image with src "http://localhost:3000/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[32:44:47.859] Server  LOG     ✓ Compiled in 713ms
+[32:46:00.576] Server  LOG     ✓ Compiled in 503ms

@@ -2205,11 +2205,11 @@ ul.list-item li .icon-tick::before {
 }
 
 .road-map-item.item-3 {
-  margin-top: -48px;
+  margin-top: 60px;
 }
 
 .road-map-item.item-4 {
-  margin-top: 80px;
+  margin-top: 126px;
   margin-bottom: 72px;
 }
 
@@ -3497,13 +3497,9 @@ ul.list-item li .icon-tick::before {
   padding: 35px 50px 25px;
   text-align: center;
   border-radius: 40px;
-  border: 1px solid rgba(9, 182, 162, 0.25);
-  background: linear-gradient(
-    163deg,
-    rgba(255, 255, 255, 0.15) 0%,
-    rgba(9, 182, 162, 0.1) 100%
-  );
-  box-shadow: 0 0 15px rgba(9, 182, 162, 0.15), 0 0 30px rgba(9, 182, 162, 0.05);
+  border: 2px solid #09b6a2;
+  background: #fff;
+  box-shadow: none;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -3516,11 +3512,7 @@ ul.list-item li .icon-tick::before {
 }
 
 .doing-item.active {
-  background: linear-gradient(
-    163deg,
-    rgba(9, 182, 162, 0.1) 0%,
-    rgba(255, 255, 255, 0.1) 100%
-  );
+  background: #fff;
 }
 
 .doing-item:hover {
@@ -3562,7 +3554,8 @@ ul.list-item li .icon-tick::before {
 
 .doing-item p {
   margin-top: 8px;
-  color: #c8c8c8;
+  color: #000;
+  font-size: 18px;
   flex: 1;
 }
 

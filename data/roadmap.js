@@ -2,33 +2,33 @@ export const roadMapItems = [
   {
     id: 1,
     number: "1",
-    title: "Choose Your Writing Project",
+    title: "BIM & Schedule Sync",
     description:
-      "Must explain want all this mistaken see denouncing pleasure & praising",
+      "Our AI ingests your 3D BIM models and master schedules to build the foundation of your project's digital twin.",
     link: "#",
   },
   {
     id: 2,
     number: "2",
-    title: "Give MunAi a bit of context",
+    title: "Ground-Truth Integration",
     description:
-      "At vero eos et accusamus et iusto odio dignissimos ducimus blanditiis",
+      "Agents ingest unstructured data from site logs, delivery notes, and WhatsApp messages to map real-world material movement.",
     link: "#",
   },
   {
     id: 3,
     number: "3",
-    title: "Edit and polish to perfection",
+    title: "SLM Threat Detection",
     description:
-      "Must explain want all this mistaken see denouncing pleasure & praising",
+      "A sector-specific SLM identifies bottlenecks and simulates the impact of logistics delays on your critical path.",
     link: "#",
   },
   {
     id: 4,
     number: "4",
-    title: "Publish your Social Post",
+    title: "Autonomous Execution",
     description:
-      "To take trivial example see undertakes laborious physical to advantage",
+      "The twin triggers actions like re-routing shipments or shifting crews—to proactively neutralize threats.",
     link: "#",
   },
 ];

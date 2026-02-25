@@ -8,9 +8,11 @@ import DigitalTwin1 from "@/components/digital-twins/DigitalTwin1";
 import DigitalTwin2 from "@/components/digital-twins/DigitalTwin2";
 import Features from "@/components/digital-twins/Features";
 import Features3 from "@/components/digital-twins/Features3";
+import Features1 from "@/components/digital-twins/Features1";
 import FlatTitle from "@/components/digital-twins/FlatTitle";
 import Tools from "@/components/digital-twins/Tools";
 import React from "react";
+import Roadmap from "@/components/digital-twins/Roadmap";
 
 export const metadata = {
   title: "Digital Twins || Intellibyld - The OS for Construction Supply Chains",
@@ -27,9 +29,11 @@ export default function page() {
           <FlatTitle />
           <DigitalTwin1 />
           <DigitalTwin2 />
-          <Tools />
-          
+          <Features1 />
+          <Roadmap />
           <Features3 />
+          <Features />
+          
           
           <Footer2 />
         </div>
