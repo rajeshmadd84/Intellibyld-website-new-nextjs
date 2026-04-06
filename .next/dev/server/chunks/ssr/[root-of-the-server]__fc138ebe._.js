@@ -206,7 +206,7 @@ function Banner() {
                                         className: "grid-button flex gap20 items-center mb-50",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "#",
+                                                href: "/pilot",
                                                 className: "tf-button style-2",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -230,7 +230,7 @@ function Banner() {
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "#",
+                                                href: "/pilot",
                                                 className: "tf-button style-2",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -631,7 +631,9 @@ function DigitalTwin() {
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "",
+                                        style: {
+                                            color: "#fff"
+                                        },
                                         children: "Traditional BIM models are static snapshots. Intellibyld creates a dynamic, virtual replica of your construction supply chain that evolves in real-time. By linking every material movement to your master project schedule, we eliminate the “Integration Trap” and ensure your digital model perfectly mirrors your physical site reality."
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
@@ -914,7 +916,9 @@ function AgenticAi() {
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "",
+                                    style: {
+                                        color: "#fff"
+                                    },
                                     children: 'Stop wasting your team\'s potential on the "Integration Trap." While legacy systems require manual data entry and constant oversight, Intellibyld’s Agentic AI acts as a tireless digital workforce. It autonomously manages the complex coordination between your BIM models, ERP data, and thousands of supplier interactions, making real-time decisions that keep your project on track.'
                                 }, void 0, false, {
                                     fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
@@ -923,6 +927,9 @@ function AgenticAi() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                     className: "list-item tick-white",
+                                    style: {
+                                        color: "#fff"
+                                    },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                             children: [
@@ -2129,9 +2136,9 @@ __turbopack_context__.s([
 const teamMembers = [
     {
         id: 1,
-        image: "/assets/images/team-member/image-01.jpg",
-        name: "Alexander S. Gallo",
-        role: "Creative Designer",
+        image: "/assets/images/team-member/rajesh.jpg",
+        name: "Rajesh Maddineni",
+        role: "CEO & Co-Founder",
         socials: [
             {
                 platform: "linkedin",
@@ -2141,9 +2148,9 @@ const teamMembers = [
     },
     {
         id: 2,
-        image: "/assets/images/team-member/image-02.jpg",
-        name: "Jason E. Pacheco",
-        role: "AI Code Developer",
+        image: "/assets/images/team-member/tharun1.jpeg",
+        name: "Thaun S Kalimili",
+        role: "CTO & Co-Founder",
         socials: [
             {
                 platform: "linkedin",
@@ -2153,9 +2160,9 @@ const teamMembers = [
     },
     {
         id: 3,
-        image: "/assets/images/team-member/image-03.jpg",
-        name: "Ronald L. Townsend",
-        role: "Media Generator",
+        image: "/assets/images/team-member/hari.jpg",
+        name: "Hari Sagaran",
+        role: "CGO & Co-Founder",
         socials: [
             {
                 platform: "linkedin",
@@ -2165,45 +2172,9 @@ const teamMembers = [
     },
     {
         id: 4,
-        image: "/assets/images/team-member/image-04.jpg",
-        name: "Thomas R. Mummert",
-        role: "AI Image Designer",
-        socials: [
-            {
-                platform: "linkedin",
-                icon: "icon-linkedin2"
-            }
-        ]
-    },
-    {
-        id: 5,
-        image: "/assets/images/team-member/image-04.jpg",
-        name: "Thomas R. Mummert",
-        role: "AI Image Designer",
-        socials: [
-            {
-                platform: "linkedin",
-                icon: "icon-linkedin2"
-            }
-        ]
-    },
-    {
-        id: 6,
-        image: "/assets/images/team-member/image-04.jpg",
-        name: "Thomas R. Mummert",
-        role: "AI Image Designer",
-        socials: [
-            {
-                platform: "linkedin",
-                icon: "icon-linkedin2"
-            }
-        ]
-    },
-    {
-        id: 7,
-        image: "/assets/images/team-member/image-04.jpg",
-        name: "Thomas R. Mummert",
-        role: "AI Image Designer",
+        image: "/assets/images/team-member/jidesh.jpeg",
+        name: "Jidesh Kambil",
+        role: "Founding Advisor",
         socials: [
             {
                 platform: "linkedin",

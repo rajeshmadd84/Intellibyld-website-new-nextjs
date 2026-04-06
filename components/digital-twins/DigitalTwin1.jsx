@@ -18,7 +18,7 @@ export default function DigitalTwin1() {
                   </span>
                 </div>
               </div>
-              <p className="">
+              <p style={{ color: "#fff" }}>
                Most digital models are out of date the moment construction begins. 
                Intellibyld’s Living Digital Twin creates a high fidelity bridge between your planning office and the active job site. 
                By continuously ingesting data from thousands of fragmented sources ranging from global shipping logs to WhatsApp site diaries. 

@@ -21,11 +21,11 @@ export default function Banner() {
                 Stop managing spreadsheets and start orchestrating your site. Intellibyld uses a <strong>Construction-Trained SLM</strong> to turn fragmented logistics into Autonomous Execution, keeping your project on schedule and your carbon footprint on target.
               </p>
               <div className="grid-button flex gap20 items-center mb-50">
-                <a href="#" className="tf-button style-2">
+                <a href="/pilot" className="tf-button style-2">
                   <span>Request Free Demo</span>
                   <i className="icon-arrow-right2" />
                 </a>
-                <a href="#" className="tf-button style-2">
+                <a href="/pilot" className="tf-button style-2">
                   <span>Try For Free</span>
                   <i className="icon-arrow-right2" />
                 </a>

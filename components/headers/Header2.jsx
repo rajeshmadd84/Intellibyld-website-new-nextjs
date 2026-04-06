@@ -50,7 +50,7 @@ export default function Header2() {
               {/* /#main-nav */}
               <div className="header-right">
                 <Link
-                  href={`/contact-us`}
+                  href={`/pilot`}
                   className="tf-button style-green get-start h45"
                 >
                   <span>Get Started</span>

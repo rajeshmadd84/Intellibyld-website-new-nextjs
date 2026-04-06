@@ -15,7 +15,7 @@ export default function DigitalTwin() {
                   <span className="tf-color-green">Supply Chain</span>
                 </div>
               </div>
-              <p className="">
+              <p style={{ color: "#fff" }}>
                 Traditional BIM models are static snapshots. Intellibyld creates
                 a dynamic, virtual replica of your construction supply chain
                 that evolves in real-time. By linking every material movement to

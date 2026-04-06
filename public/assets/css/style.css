@@ -916,7 +916,7 @@ h6 {
   color: #6844ed !important;
 }
 .tf-color-green {
-  color: #09b6a2 !important;
+  color: #2563EB !important;
 }
 .tf-color-blue {
   color: #3468f0 !important;
@@ -1125,12 +1125,12 @@ a:focus {
 .tf-button.style-2 {
   color: #fff;
   padding: 20px 29px;
-  border: 1px solid #55eddb;
-  background: linear-gradient(145deg, #09b6a2 0%, #55eddb 100%);
+  border: 1px solid #60a5fa;
+  background: linear-gradient(145deg, #2563EB 0%, #60a5fa 100%);
 }
 
 .tf-button.style-2:hover {
-  background: linear-gradient(315deg, #09b6a2 0%, #55eddb 100%);
+  background: linear-gradient(315deg, #2563EB 0%, #60a5fa 100%);
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
@@ -1141,7 +1141,7 @@ a:focus {
 }
 
 .tf-button.style-3:hover {
-  background: linear-gradient(145deg, #09b6a2 0%, #55eddb 100%);
+  background: linear-gradient(145deg, #2563EB 0%, #60a5fa 100%);
 }
 
 /* tf-button-default */
@@ -1164,11 +1164,11 @@ a:focus {
 
 /* style-green */
 .tf-button.style-green {
-  background-color: rgba(9, 182, 162, 1);
+  background-color: rgba(37, 99, 235, 1);
 }
 
 .tf-button.style-green:hover {
-  color: rgba(9, 182, 162, 1);
+  color: rgba(37, 99, 235, 1);
   background-color: #fff;
 }
 
@@ -1648,12 +1648,12 @@ a:focus {
 .header-green .menu-primary-menu .sub-menu li.current-item a,
 .header-green .menu-primary-menu .sub-menu li a:hover,
 .header-green .menu-primary-menu > li:hover > a {
-  color: #09b6a2;
+  color: #2563EB;
 }
 
 .header-green .menu-primary-menu > li.current-menu-item > a::before,
 .header-green .menu-primary-menu > li:hover > a::before {
-  background: #09b6a2;
+  background: #2563EB;
 }
 
 .header-green .menu-primary-menu li .sub-menu {
@@ -1972,7 +1972,7 @@ ul.wg-menu li a:hover {
   width: 430px;
   height: 390px;
   transform: rotate(-105deg);
-  background: linear-gradient(180deg, #09b6a2 0%, rgba(9, 182, 162, 0) 100%);
+  background: linear-gradient(180deg, #2563EB 0%, rgba(37, 99, 235, 0) 100%);
   opacity: 0.6;
   filter: blur(150px);
 }
@@ -1984,7 +1984,7 @@ ul.wg-menu li a:hover {
   bottom: 46px;
   width: 370px;
   height: 336px;
-  background: linear-gradient(180deg, #09b6a2 0%, rgba(9, 182, 162, 0) 100%);
+  background: linear-gradient(180deg, #2563EB 0%, rgba(37, 99, 235, 0) 100%);
   opacity: 0.6;
   filter: blur(150px);
 }
@@ -1995,15 +1995,15 @@ ul.wg-menu li a:hover {
 }
 
 #footer.style-1 .footer-bottom ul li a:hover {
-  color: rgba(9, 182, 162, 1);
+  color: rgba(37, 99, 235, 1);
 }
 
 #footer.style-1 ul.wg-menu li a:hover {
-  color: rgba(9, 182, 162, 1);
+  color: rgba(37, 99, 235, 1);
 }
 
 #footer.style-1 ul.wg-menu li a::before {
-  background-color: rgba(9, 182, 162, 1);
+  background-color: rgba(37, 99, 235, 1);
 }
 
 #footer.style-1 .list-1 {
@@ -2023,7 +2023,7 @@ ul.wg-menu li a:hover {
 }
 
 #footer.style-1 form button {
-  background: linear-gradient(145deg, #09b6a2 0%, #55eddb 100%);
+  background: linear-gradient(145deg, #2563EB 0%, #60a5fa 100%);
 }
 
 #footer.style-1 form button:hover {
@@ -2275,7 +2275,7 @@ ul.wg-menu li a:hover {
 .cta-wrapper-1 {
   position: relative;
   border-radius: 30px;
-  background: linear-gradient(145deg, #09b6a2 0%, #55eddb 100%);
+  background: linear-gradient(145deg, #2563EB 0%, #60a5fa 100%);
   padding: 89px 0 99px;
   text-align: center;
 }
@@ -2320,7 +2320,7 @@ ul.wg-menu li a:hover {
   top: 130px;
   left: 94px;
   border-radius: 15px;
-  box-shadow: 0px 20px 40px 0px rgba(9, 182, 162, 0.1);
+  box-shadow: 0px 20px 40px 0px rgba(37, 99, 235, 0.1);
 }
 
 .cta-wrapper-1 .item3 {
@@ -2339,7 +2339,7 @@ ul.wg-menu li a:hover {
   top: 143px;
   right: 106px;
   border-radius: 16px;
-  box-shadow: 0px 20px 40px 0px rgba(9, 182, 162, 0.1);
+  box-shadow: 0px 20px 40px 0px rgba(37, 99, 235, 0.1);
 }
 
 /* type-1 */
@@ -2447,7 +2447,7 @@ ul.wg-menu li a:hover {
   right: 0;
   width: 565px;
   height: 514px;
-  background: linear-gradient(180deg, #09b6a2 0%, rgba(9, 182, 162, 0) 100%);
+  background: linear-gradient(180deg, #2563EB 0%, rgba(37, 99, 235, 0) 100%);
   opacity: 0.8;
   filter: blur(150px);
 }
@@ -2459,7 +2459,7 @@ ul.wg-menu li a:hover {
   width: 102px;
   height: 102px;
   border-radius: 50%;
-  background: rgba(9, 182, 162, 0.4);
+  background: rgba(37, 99, 235, 0.4);
   filter: blur(50px);
 }
 
@@ -2470,7 +2470,7 @@ ul.wg-menu li a:hover {
   width: 160px;
   height: 29px;
   transform: rotate(-20.673deg);
-  background: rgba(9, 182, 162, 0.6);
+  background: rgba(37, 99, 235, 0.6);
   filter: blur(40px);
 }
 
@@ -2481,7 +2481,7 @@ ul.wg-menu li a:hover {
   width: 223px;
   height: 223px;
   border-radius: 50%;
-  background: rgba(9, 182, 162, 0.3);
+  background: rgba(37, 99, 235, 0.3);
   filter: blur(50px);
 }
 
@@ -2509,7 +2509,7 @@ ul.wg-menu li a:hover {
 }
 
 .flat-title-page .heading span {
-  color: #09b6a2;
+  color: #2563EB;
 }
 
 .breadcrumbs {
@@ -2703,7 +2703,7 @@ ul.wg-menu li a:hover {
 }
 
 .page-green .progress-wrap {
-  background: #09b6a2;
+  background: #2563EB;
 }
 
 .page-blue .progress-wrap {
@@ -2776,11 +2776,11 @@ ul.wg-menu li a:hover {
 }
 
 .page-green .tf-mouse-inner {
-  background-color: #09b6a2;
+  background-color: #2563EB;
 }
 
 .page-green .tf-mouse-outer {
-  border-color: #09b6a2;
+  border-color: #2563EB;
 }
 
 .page-blue .tf-mouse-inner {

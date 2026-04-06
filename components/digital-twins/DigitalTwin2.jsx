@@ -32,7 +32,7 @@ export default function DigitalTwin2() {
               <h5 style={{ fontStyle: "italic", marginBottom: "20px", color: "#555" }}>
                 Closing the loop between procurement and installation, because a building shouldn't be a puzzle with missing pieces.
               </h5>
-              <p className="">
+              <p style={{ color: "#fff" }}>
                 Legacy BIM models typically stop at the site boundary, leaving the most volatile part of the project - the global supply chain - in the dark. 
                 Intellibyld’s Digital Twin extends its reach into the entire lifecycle of your materials, creating a single thread of truth from the factory floor to the final installation point.
               </p>

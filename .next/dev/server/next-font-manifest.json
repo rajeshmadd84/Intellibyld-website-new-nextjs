@@ -1,14 +1,7 @@
 {
   "app": {
-    "[project]/app/(homes)/home-1/page": [],
-    "[project]/app/(homes)/home-3/page": [],
-    "[project]/app/(homes)/home-4/page": [],
-    "[project]/app/(use-cases)/use-cases-details/[id]/page": [],
-    "[project]/app/(use-cases)/use-cases/page": [],
-    "[project]/app/_not-found/page": [],
-    "[project]/app/agentic-ai/page": [],
-    "[project]/app/digital-twins/page": [],
-    "[project]/app/page": []
+    "[project]/app/page": [],
+    "[project]/app/pilot/page": []
   },
   "appUsingSizeAdjust": false,
   "pages": {},
