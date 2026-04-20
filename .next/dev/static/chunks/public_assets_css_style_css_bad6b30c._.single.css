@@ -2105,6 +2105,11 @@ ul.wg-menu li a:hover {
   color: #2563eb;
 }
 
+.flat-title-page.contact-flat-title-compact {
+  padding-top: 170px;
+  padding-bottom: 95px;
+}
+
 .breadcrumbs {
   justify-content: center;
   align-items: center;

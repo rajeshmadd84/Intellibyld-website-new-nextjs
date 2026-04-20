@@ -592,7 +592,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 function FlatTitle() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "flat-title-page",
+        className: "flat-title-page flat-title-page-mobile-compact",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "item1 block-blur-1"
@@ -960,7 +960,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$common$2f$Coun
 ;
 function AgenticAi() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "wg-create-design style-3 pb-130 pt-130",
+        className: "wg-create-design style-3 pb-130 pt-130 agentic-ai-mobile-tight",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "themesflat-container",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1054,96 +1054,150 @@ function AgenticAi() {
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                            style: {
+                                                display: "flex",
+                                                alignItems: "flex-start",
+                                                gap: 12
+                                            },
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                     className: "icon-tick",
                                                     style: {
-                                                        color: "#fff"
+                                                        color: "#fff",
+                                                        marginTop: 6,
+                                                        flexShrink: 0
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                                    lineNumber: 27,
+                                                    lineNumber: 30,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "tf-color-green",
                                                     style: {
-                                                        fontWeight: 700
+                                                        display: "block"
                                                     },
-                                                    children: "Autonomous Logistics:"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                                    lineNumber: 28,
-                                                    columnNumber: 19
-                                                }, this),
-                                                " ",
-                                                "Freeing teams for site execution."
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                            lineNumber: 26,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                    className: "icon-tick",
-                                                    style: {
-                                                        color: "#fff"
-                                                    }
-                                                }, void 0, false, {
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "tf-color-green",
+                                                            style: {
+                                                                fontWeight: 700
+                                                            },
+                                                            children: "Autonomous Logistics:"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/agentic-ai/Agent1.jsx",
+                                                            lineNumber: 35,
+                                                            columnNumber: 21
+                                                        }, this),
+                                                        " ",
+                                                        "Freeing teams for site execution."
+                                                    ]
+                                                }, void 0, true, {
                                                     fileName: "[project]/components/agentic-ai/Agent1.jsx",
                                                     lineNumber: 34,
                                                     columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "tf-color-green",
-                                                    style: {
-                                                        fontWeight: 700
-                                                    },
-                                                    children: "Proactive Neutralization:"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                                    lineNumber: 35,
-                                                    columnNumber: 19
-                                                }, this),
-                                                " ",
-                                                "Stopping threats early."
+                                                }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                            lineNumber: 33,
+                                            lineNumber: 29,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                            style: {
+                                                display: "flex",
+                                                alignItems: "flex-start",
+                                                gap: 12
+                                            },
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                     className: "icon-tick",
                                                     style: {
-                                                        color: "#fff"
+                                                        color: "#fff",
+                                                        marginTop: 6,
+                                                        flexShrink: 0
                                                     }
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                                    lineNumber: 41,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "tf-color-green",
-                                                    style: {
-                                                        fontWeight: 700
-                                                    },
-                                                    children: "Zero Friction:"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/agentic-ai/Agent1.jsx",
                                                     lineNumber: 42,
                                                     columnNumber: 19
                                                 }, this),
-                                                " ",
-                                                "Fast-tracking RFQs and shipments."
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    style: {
+                                                        display: "block"
+                                                    },
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "tf-color-green",
+                                                            style: {
+                                                                fontWeight: 700
+                                                            },
+                                                            children: "Proactive Neutralization:"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/agentic-ai/Agent1.jsx",
+                                                            lineNumber: 47,
+                                                            columnNumber: 21
+                                                        }, this),
+                                                        " ",
+                                                        "Stopping threats early."
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/components/agentic-ai/Agent1.jsx",
+                                                    lineNumber: 46,
+                                                    columnNumber: 19
+                                                }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                            lineNumber: 40,
+                                            lineNumber: 41,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                            style: {
+                                                display: "flex",
+                                                alignItems: "flex-start",
+                                                gap: 12
+                                            },
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                    className: "icon-tick",
+                                                    style: {
+                                                        color: "#fff",
+                                                        marginTop: 6,
+                                                        flexShrink: 0
+                                                    }
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/agentic-ai/Agent1.jsx",
+                                                    lineNumber: 54,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    style: {
+                                                        display: "block"
+                                                    },
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "tf-color-green",
+                                                            style: {
+                                                                fontWeight: 700
+                                                            },
+                                                            children: "Zero Friction:"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/components/agentic-ai/Agent1.jsx",
+                                                            lineNumber: 59,
+                                                            columnNumber: 21
+                                                        }, this),
+                                                        " ",
+                                                        "Fast-tracking RFQs and shipments."
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/components/agentic-ai/Agent1.jsx",
+                                                    lineNumber: 58,
+                                                    columnNumber: 19
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/components/agentic-ai/Agent1.jsx",
+                                            lineNumber: 53,
                                             columnNumber: 17
                                         }, this)
                                     ]
@@ -1175,17 +1229,17 @@ function AgenticAi() {
                                 height: 522
                             }, void 0, false, {
                                 fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                lineNumber: 53,
+                                lineNumber: 71,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                            lineNumber: 52,
+                            lineNumber: 70,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                        lineNumber: 51,
+                        lineNumber: 69,
                         columnNumber: 11
                     }, this)
                 ]

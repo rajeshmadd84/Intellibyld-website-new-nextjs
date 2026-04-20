@@ -495,3 +495,39 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [11:13:51.979] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
 [11:13:51.979] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
 [11:16:38.780] Server  LOG     ✓ Compiled in 1586ms
+[11:26:40.821] Server  LOG     ✓ Compiled in 1289ms
+[11:28:08.232] Server  LOG     ✓ Compiled in 397ms
+[11:28:34.101] Browser ERROR   params are being enumerated. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[11:28:54.566] Browser WARN    Image with src "/assets/images/team-member/rajesh.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:28:54.566] Browser WARN    Image with src "/assets/images/team-member/tharun1.jpeg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:28:54.687] Browser WARN    Image with src "/assets/images/team-member/hari.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:28:54.867] Browser WARN    Image with src "/assets/images/team-member/jidesh.jpeg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:29:47.395] Server  LOG     ✓ Compiled in 260ms
+[11:32:43.782] Browser WARN    Image with src "/assets/images/bg-section/sustainability1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:35:32.037] Server  LOG     ✓ Compiled in 881ms
+[11:35:38.077] Server  LOG     ✓ Compiled in 244ms
+[11:35:44.721] Server  LOG     ✓ Compiled in 94ms
+[11:36:05.055] Server  LOG     ✓ Compiled in 130ms
+[11:46:20.406] Server  LOG     ✓ Compiled in 412ms
+[11:56:03.331] Server  LOG     ✓ Compiled in 880ms
+[11:56:10.317] Server  LOG     ✓ Compiled in 155ms
+[11:59:36.257] Server  LOG     ✓ Compiled in 220ms
+[11:59:41.691] Server  LOG     ✓ Compiled in 128ms
+[11:59:50.687] Server  LOG     ✓ Compiled in 129ms
+[12:00:03.658] Server  LOG     ✓ Finished filesystem cache database compaction in 10.4s
+[12:03:22.056] Server  LOG     ✓ Compiled in 690ms
+[12:07:12.260] Server  LOG     ✓ Compiled in 518ms
+[12:07:18.456] Server  LOG     ✓ Compiled in 140ms
+[12:08:33.164] Server  LOG     ✓ Compiled in 211ms
+[12:08:40.059] Server  LOG     ✓ Compiled in 154ms
+[12:08:47.248] Server  LOG     ✓ Compiled in 94ms
+[12:23:57.380] Server  LOG     ✓ Compiled in 560ms
+[12:25:50.774] Server  LOG     ✓ Compiled in 1048ms
+[12:28:13.869] Server  LOG     ✓ Compiled in 253ms
+[12:36:31.001] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[12:38:17.603] Server  LOG     ✓ Compiled in 688ms
+[12:38:24.858] Server  LOG     ✓ Compiled in 309ms
+[12:38:37.493] Server  LOG     ✓ Finished filesystem cache database compaction in 10.0s
+[12:41:22.183] Server  LOG     ✓ Compiled in 693ms
+[12:41:27.898] Server  LOG     ✓ Compiled in 261ms
+[12:43:17.249] Server  LOG     ✓ Compiled in 187ms

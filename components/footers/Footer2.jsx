@@ -32,7 +32,7 @@ export default function Footer2() {
               </Link>
             </div>
           </div>
-          <div className="col-sm-4 col-lg-4" style={{ textAlign: "center" }}>
+          <div className="col-sm-4 col-lg-4 text-start text-sm-center">
             <p className="text mb-0">
               Copyright @{new Date().getFullYear()},{" "}
               <a className="tf-color-green" href="#">
@@ -41,7 +41,7 @@ export default function Footer2() {
               All Rights Reserved
             </p>
           </div>
-          <div className="col-sm-4 col-lg-4" style={{ textAlign: "right" }}>
+          <div className="col-sm-4 col-lg-4 text-start text-sm-end">
             <a
               href="https://www.linkedin.com/company/intellibyld"
               target="_blank"

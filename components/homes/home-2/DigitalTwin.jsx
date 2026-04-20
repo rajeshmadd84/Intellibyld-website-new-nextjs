@@ -3,7 +3,10 @@ import React from "react";
 import Image from "next/image";
 export default function DigitalTwin() {
   return (
-    <div className="wg-create-design style-2 pb-130 pt-130">
+    <div
+      className="wg-create-design style-2 pb-130 pt-130 home2-digitaltwin-mobile-gap"
+      style={{ paddingBottom: 90 }}
+    >
       <div className="themesflat-container">
         <div className="row">
           <div className="col-lg-5">
@@ -45,7 +48,7 @@ export default function DigitalTwin() {
           <div className="row">
             {servicesItems.map((item, index) => (
               <div className="col-md-6" key={index}>
-                <div className="services-item wow fadeInUp">
+                <div className="services-item home2-digital-services-item wow fadeInUp">
                   <div className="content flex-grow">
                     <h4>{item.title}</h4>
                     <p dangerouslySetInnerHTML={{ __html: item.description }} />

@@ -10,7 +10,7 @@ export default function ContactInfo() {
           {contactLinks.map((item) => (
             <div className="col-lg-6 col-md-12 col-12" key={item.id}>
               <div
-                className="wg-helpful style-1 wow fadeInUp"
+                className="wg-helpful style-1 contact-info-card wow fadeInUp"
                 data-wow-delay={item.delay}
               >
                 <div className="image">

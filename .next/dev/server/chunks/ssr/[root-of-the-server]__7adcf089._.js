@@ -165,7 +165,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$common$2f$Coun
 ;
 function Sustainability1() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "wg-create-design style-3 pb-80 pt-100",
+        className: "wg-create-design style-3 pb-80 pt-100 sustainability-mobile-tight",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "themesflat-container",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -188,7 +188,7 @@ function Sustainability1() {
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "main-title",
+                                            className: "main-title sustainability-title-mobile-tight",
                                             style: {
                                                 color: "#000",
                                                 fontSize: "36px",
@@ -199,11 +199,11 @@ function Sustainability1() {
                                                 " ",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/components/sustainability/sustainability1.jsx",
-                                                    lineNumber: 15,
+                                                    lineNumber: 18,
                                                     columnNumber: 65
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "animation-text tf-color-green",
+                                                    className: "animation-text tf-color-green sustainability-title-sub-mobile-tight",
                                                     style: {
                                                         fontSize: "28px",
                                                         lineHeight: "40px"
@@ -211,7 +211,7 @@ function Sustainability1() {
                                                     children: "A real-time ledger of your project’s environmental footprint."
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sustainability/sustainability1.jsx",
-                                                    lineNumber: 16,
+                                                    lineNumber: 19,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
@@ -236,30 +236,30 @@ function Sustainability1() {
                                         "A Sustainability Digital Twin is an active audit of the physical resources powering your project—from the carbon intensity of materials in the hold to the precise chemical footprint of every onsite delivery.",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/components/sustainability/sustainability1.jsx",
-                                            lineNumber: 26,
+                                            lineNumber: 29,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/components/sustainability/sustainability1.jsx",
-                                            lineNumber: 26,
+                                            lineNumber: 29,
                                             columnNumber: 21
                                         }, this),
                                         "Unlike a generic carbon report, which provides high-level estimates based on averages, IntelliByld’s Digital Twin captures Ground-Truth data. It accounts for the actual fuel consumed by idle machinery and the real-world waste generated by logistical friction, updating your ESG metrics in real time.",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/components/sustainability/sustainability1.jsx",
-                                            lineNumber: 28,
+                                            lineNumber: 31,
                                             columnNumber: 16
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/components/sustainability/sustainability1.jsx",
-                                            lineNumber: 28,
+                                            lineNumber: 31,
                                             columnNumber: 22
                                         }, this),
                                         'Unlike a static dashboard, our system doesn’t just show you what was wasted—it anticipates where waste will happen. By watching every signal across your supply chain, IntelliByld identifies "Carbon Chokepoints" before they manifest, allowing you to optimize for Green Mark 2025 compliance without sacrificing operational speed.'
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/sustainability/sustainability1.jsx",
-                                    lineNumber: 24,
+                                    lineNumber: 27,
                                     columnNumber: 15
                                 }, this)
                             ]
@@ -300,17 +300,17 @@ function Sustainability1() {
                                 }
                             }, void 0, false, {
                                 fileName: "[project]/components/sustainability/sustainability1.jsx",
-                                lineNumber: 45,
+                                lineNumber: 48,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/sustainability/sustainability1.jsx",
-                            lineNumber: 36,
+                            lineNumber: 39,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/sustainability/sustainability1.jsx",
-                        lineNumber: 35,
+                        lineNumber: 38,
                         columnNumber: 11
                     }, this)
                 ]
@@ -346,7 +346,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 function FlatTitle() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "flat-title-page",
+        className: "flat-title-page flat-title-page-mobile-compact",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "item1 block-blur-1"

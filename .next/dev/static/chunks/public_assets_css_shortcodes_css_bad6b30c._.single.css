@@ -1967,6 +1967,10 @@ ul.list-item li .icon-tick:before {
   border-color: #6844ed;
 }
 
+.wg-helpful.style-1.contact-info-card:hover {
+  border-color: #2563eb;
+}
+
 .wg-helpful.style-1 .image {
   margin: unset;
   background-color: #fff;
@@ -1995,6 +1999,10 @@ ul.list-item li .icon-tick:before {
 
 .wg-helpful.style-1:hover .image .icon {
   background-color: #6844ed;
+}
+
+.wg-helpful.style-1.contact-info-card .image .icon, .wg-helpful.style-1.contact-info-card:hover .image .icon {
+  background-color: #2563eb;
 }
 
 .wg-helpful.style-1 .image span:before {
@@ -4177,6 +4185,10 @@ ul.list-item li .icon-tick:before {
 
 .services-item:hover {
   border-color: #e6f85e;
+}
+
+.services-item.home2-digital-services-item:hover {
+  border-color: #2563eb;
 }
 
 .services-item:hover > a {

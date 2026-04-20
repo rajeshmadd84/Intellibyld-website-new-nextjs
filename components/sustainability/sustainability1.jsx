@@ -4,17 +4,20 @@ import Image from "next/image";
 import Counter from "@/components/common/Counter";
 export default function Sustainability1() {
   return (
-    <div className="wg-create-design style-3 pb-80 pt-100">
+    <div className="wg-create-design style-3 pb-80 pt-100 sustainability-mobile-tight">
       <div className="themesflat-container">
         <div className="row align-items-center">
           <div className="col-lg-6">
             <div className="content">
               <div className="heading-section wow fadeInUp style-1">
                 <h6 className="tf-color-green">What is the impact?</h6>
-                <div className="main-title" style={{ color: "#000", fontSize: "36px", lineHeight: "52px" }}>
+                <div
+                  className="main-title sustainability-title-mobile-tight"
+                  style={{ color: "#000", fontSize: "36px", lineHeight: "52px" }}
+                >
                 Not a green estimate. Not a generic report.{" "}<br />
                   <span
-                    className="animation-text tf-color-green"
+                    className="animation-text tf-color-green sustainability-title-sub-mobile-tight"
                     style={{ fontSize: "28px", lineHeight: "40px" }}
                   >
                     A real-time ledger of your project’s environmental footprint.

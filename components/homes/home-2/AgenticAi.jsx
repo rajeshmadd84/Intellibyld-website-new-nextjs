@@ -4,7 +4,7 @@ import Image from "next/image";
 import Counter from "@/components/common/Counter";
 export default function AgenticAi() {
   return (
-    <div className="wg-create-design style-3 pb-130 pt-130">
+    <div className="wg-create-design style-3 pb-130 pt-130" style={{ paddingTop: 90 }}>
       <div className="themesflat-container">
         <div className="row">
           <div className="col-lg-6">

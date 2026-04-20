@@ -18,7 +18,7 @@ export default function Doing() {
             </div>
           </div>
           {features.map((item, index) => (
-            <div className="col-md-4" key={index}>
+            <div className="col-md-4 mb-20 mb-md-0" key={index}>
               <div className={`doing-item ${index == 1 ? "active" : ""}`}>
                 <div className="icon">
                   <img src={item.icon} alt={item.title} width={48} height={48} />

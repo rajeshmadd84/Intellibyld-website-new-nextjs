@@ -75,6 +75,19 @@
     }
 }
 
+@media (max-width: 820px) {
+    .flat-title-page.flat-title-page-mobile-compact {
+        padding-top: 130px;
+        padding-bottom: 72px;
+    }
+    .flat-title-page.flat-title-page-mobile-compact .heading {
+        font-size: 54px;
+        line-height: 1.05;
+        letter-spacing: -1px;
+        margin-bottom: 0;
+    }
+}
+
 @media (max-width: 1200px) {
     .wg-helpful {
         margin-bottom: 30px;
@@ -349,12 +362,34 @@
 }
 
 @media (max-width: 820px) {
+    .flat-title-page.contact-flat-title-compact {
+        padding-top: 120px;
+        padding-bottom: 60px;
+    }
+    .digital-twin1-mobile-tight {
+        padding-top: 60px !important;
+    }
+    .agentic-ai-mobile-tight {
+        padding-top: 60px !important;
+    }
+    .sustainability-mobile-tight {
+        padding-top: 60px !important;
+    }
+    .sustainability-title-mobile-tight {
+        line-height: 44px !important;
+    }
+    .sustainability-title-sub-mobile-tight {
+        line-height: 34px !important;
+    }
     .wg-create-design.style-3 .image {
         margin-top: 30px;
         text-align: center;
     }
     .wg-create-design.style-2 .image img {
         width: 100%;
+    }
+    .home2-digitaltwin-mobile-gap .image {
+        margin-top: 20px;
     }
     .side-bar .widget {
         padding: 20px;
@@ -698,7 +733,8 @@
         position: unset;
     }
     .wg-banner-2 .image {
-        display: none;
+        display: block;
+        min-height: 620px;
     }
     .news-item {
         margin-bottom: 15px;

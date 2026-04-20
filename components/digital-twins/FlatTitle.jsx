@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 export default function FlatTitle() {
   return (
-    <div className="flat-title-page">
+    <div className="flat-title-page flat-title-page-mobile-compact">
       <div className="item1 block-blur-1" />
       <div className="item2 block-blur-2" />
       <div className="item3 block-blur-3" />
@@ -11,7 +11,7 @@ export default function FlatTitle() {
         <div className="row">
           <div className="col-12">
             <div className="heading">
-              Digital Mirror of your<span>Construction Site</span>
+              Digital Mirror of your<span> Construction Site</span>
             </div>
             
           </div>

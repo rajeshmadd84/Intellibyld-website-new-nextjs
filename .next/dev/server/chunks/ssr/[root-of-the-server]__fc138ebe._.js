@@ -552,7 +552,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$imag
 ;
 function DigitalTwin() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "wg-create-design style-2 pb-130 pt-130",
+        className: "wg-create-design style-2 pb-130 pt-130 home2-digitaltwin-mobile-gap",
+        style: {
+            paddingBottom: 90
+        },
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "themesflat-container",
             children: [
@@ -572,7 +575,7 @@ function DigitalTwin() {
                                                 children: "Digital Twins"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                                lineNumber: 12,
+                                                lineNumber: 15,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -585,19 +588,19 @@ function DigitalTwin() {
                                                         children: "Supply Chain"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                                        lineNumber: 15,
+                                                        lineNumber: 18,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                                lineNumber: 13,
+                                                lineNumber: 16,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                        lineNumber: 11,
+                                        lineNumber: 14,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -607,7 +610,7 @@ function DigitalTwin() {
                                         children: "Traditional BIM models are static snapshots. Intellibyld creates a dynamic, virtual replica of your construction supply chain that evolves in real-time. By linking every material movement to your master project schedule, we eliminate the “Integration Trap” and ensure your digital model perfectly mirrors your physical site reality."
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                        lineNumber: 18,
+                                        lineNumber: 21,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -618,31 +621,31 @@ function DigitalTwin() {
                                                 children: "Learn more"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                                lineNumber: 27,
+                                                lineNumber: 30,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                                 className: "icon-arrow-right2"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                                lineNumber: 28,
+                                                lineNumber: 31,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                        lineNumber: 26,
+                                        lineNumber: 29,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                lineNumber: 10,
+                                lineNumber: 13,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                            lineNumber: 9,
+                            lineNumber: 12,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -657,23 +660,23 @@ function DigitalTwin() {
                                     height: 476
                                 }, void 0, false, {
                                     fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                    lineNumber: 34,
+                                    lineNumber: 37,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                lineNumber: 33,
+                                lineNumber: 36,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                            lineNumber: 32,
+                            lineNumber: 35,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                    lineNumber: 8,
+                    lineNumber: 11,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -683,7 +686,7 @@ function DigitalTwin() {
                         children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$services$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["servicesItems"].map((item, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "col-md-6",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "services-item wow fadeInUp",
+                                    className: "services-item home2-digital-services-item wow fadeInUp",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "content flex-grow",
                                         children: [
@@ -691,7 +694,7 @@ function DigitalTwin() {
                                                 children: item.title
                                             }, void 0, false, {
                                                 fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                                lineNumber: 50,
+                                                lineNumber: 53,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -700,39 +703,39 @@ function DigitalTwin() {
                                                 }
                                             }, void 0, false, {
                                                 fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                                lineNumber: 51,
+                                                lineNumber: 54,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                        lineNumber: 49,
+                                        lineNumber: 52,
                                         columnNumber: 19
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                    lineNumber: 48,
+                                    lineNumber: 51,
                                     columnNumber: 17
                                 }, this)
                             }, index, false, {
                                 fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                lineNumber: 47,
+                                lineNumber: 50,
                                 columnNumber: 15
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                        lineNumber: 45,
+                        lineNumber: 48,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                    lineNumber: 44,
+                    lineNumber: 47,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-            lineNumber: 7,
+            lineNumber: 10,
             columnNumber: 7
         }, this)
     }, void 0, false, {
@@ -823,6 +826,9 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$common$2f$Coun
 function AgenticAi() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "wg-create-design style-3 pb-130 pt-130",
+        style: {
+            paddingTop: 90
+        },
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "themesflat-container",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1218,7 +1224,7 @@ function Doing() {
                         columnNumber: 11
                     }, this),
                     __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$features$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["features"].map((item, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "col-md-4",
+                            className: "col-md-4 mb-20 mb-md-0",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: `doing-item ${index == 1 ? "active" : ""}`,
                                 children: [

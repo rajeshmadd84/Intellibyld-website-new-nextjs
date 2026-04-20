@@ -4,7 +4,7 @@ import Image from "next/image";
 import Counter from "@/components/common/Counter";
 export default function AgenticAi() {
   return (
-    <div className="wg-create-design style-3 pb-130 pt-130">
+    <div className="wg-create-design style-3 pb-130 pt-130 agentic-ai-mobile-tight">
       <div className="themesflat-container">
         <div className="row">
           <div className="col-lg-6">
@@ -22,27 +22,45 @@ export default function AgenticAi() {
                 Traditional software waits for you to tell it what happened. <strong>Intellibyld’s Agentic AI</strong> acts on its own to make sure your project stays on track. 
                 By unifying your BIM models, ERP data, and supplier communications into a single <strong>Autonomous Execution Layer</strong>, we’ve moved beyond simple dashboards to a system that proactively manages the heavy lifting of construction logistics.
               </p>
-              <ul className="list-item tick-white" style={{ color: "#fff", fontSize: "18px", lineHeight: "30px" }}>
-                <li>
-                  <i className="icon-tick" style={{ color: "#fff" }} />
-                  <span className="tf-color-green" style={{ fontWeight: 700 }}>
-                    Autonomous Logistics:
-                  </span>{" "}
-                  Freeing teams for site execution.
+              <ul
+                className="list-item tick-white"
+                style={{ color: "#fff", fontSize: "18px", lineHeight: "30px" }}
+              >
+                <li style={{ display: "flex", alignItems: "flex-start", gap: 12 }}>
+                  <i
+                    className="icon-tick"
+                    style={{ color: "#fff", marginTop: 6, flexShrink: 0 }}
+                  />
+                  <span style={{ display: "block" }}>
+                    <span className="tf-color-green" style={{ fontWeight: 700 }}>
+                      Autonomous Logistics:
+                    </span>{" "}
+                    Freeing teams for site execution.
+                  </span>
                 </li>
-                <li>
-                  <i className="icon-tick" style={{ color: "#fff" }} />
-                  <span className="tf-color-green" style={{ fontWeight: 700 }}>
-                    Proactive Neutralization:
-                  </span>{" "}
-                  Stopping threats early.
+                <li style={{ display: "flex", alignItems: "flex-start", gap: 12 }}>
+                  <i
+                    className="icon-tick"
+                    style={{ color: "#fff", marginTop: 6, flexShrink: 0 }}
+                  />
+                  <span style={{ display: "block" }}>
+                    <span className="tf-color-green" style={{ fontWeight: 700 }}>
+                      Proactive Neutralization:
+                    </span>{" "}
+                    Stopping threats early.
+                  </span>
                 </li>
-                <li>
-                  <i className="icon-tick" style={{ color: "#fff" }} />
-                  <span className="tf-color-green" style={{ fontWeight: 700 }}>
-                    Zero Friction:
-                  </span>{" "}
-                  Fast-tracking RFQs and shipments.
+                <li style={{ display: "flex", alignItems: "flex-start", gap: 12 }}>
+                  <i
+                    className="icon-tick"
+                    style={{ color: "#fff", marginTop: 6, flexShrink: 0 }}
+                  />
+                  <span style={{ display: "block" }}>
+                    <span className="tf-color-green" style={{ fontWeight: 700 }}>
+                      Zero Friction:
+                    </span>{" "}
+                    Fast-tracking RFQs and shipments.
+                  </span>
                 </li>
               </ul>
               
