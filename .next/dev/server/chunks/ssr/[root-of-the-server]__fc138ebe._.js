@@ -1991,7 +1991,8 @@ const teamMembers = [
         socials: [
             {
                 platform: "linkedin",
-                icon: "icon-linkedin2"
+                icon: "icon-linkedin2",
+                url: "https://www.linkedin.com/in/rajeshmaddineni/"
             }
         ]
     },
@@ -2003,7 +2004,8 @@ const teamMembers = [
         socials: [
             {
                 platform: "linkedin",
-                icon: "icon-linkedin2"
+                icon: "icon-linkedin2",
+                url: "https://www.linkedin.com/in/kalimili/"
             }
         ]
     },
@@ -2015,7 +2017,8 @@ const teamMembers = [
         socials: [
             {
                 platform: "linkedin",
-                icon: "icon-linkedin2"
+                icon: "icon-linkedin2",
+                url: "https://www.linkedin.com/in/hari-sagaran/"
             }
         ]
     },
@@ -2027,7 +2030,8 @@ const teamMembers = [
         socials: [
             {
                 platform: "linkedin",
-                icon: "icon-linkedin2"
+                icon: "icon-linkedin2",
+                url: "https://www.linkedin.com/in/jidesh-kambil-6a43a254/"
             }
         ]
     }
@@ -2092,49 +2096,28 @@ function Team() {
                         lineNumber: 10,
                         columnNumber: 11
                     }, this),
-                    __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$team$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["teamMembers"].map((member, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$team$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["teamMembers"].map((member, index)=>{
+                        const linkedInSocial = member.socials.find((social)=>social.platform === "linkedin");
+                        return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "col-lg-3 col-md-6 z-5",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "member-item",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "image",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                src: member.image,
-                                                width: 300,
-                                                height: 285,
-                                                alt: member.name
-                                            }, void 0, false, {
-                                                fileName: "[project]/components/homes/home-2/Team.jsx",
-                                                lineNumber: 24,
-                                                columnNumber: 19
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                className: "wg-social",
-                                                children: member.socials.map((social, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                            href: "#",
-                                                            className: social.icon
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/components/homes/home-2/Team.jsx",
-                                                            lineNumber: 33,
-                                                            columnNumber: 25
-                                                        }, this)
-                                                    }, idx, false, {
-                                                        fileName: "[project]/components/homes/home-2/Team.jsx",
-                                                        lineNumber: 32,
-                                                        columnNumber: 23
-                                                    }, this))
-                                            }, void 0, false, {
-                                                fileName: "[project]/components/homes/home-2/Team.jsx",
-                                                lineNumber: 30,
-                                                columnNumber: 19
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                            src: member.image,
+                                            width: 300,
+                                            height: 285,
+                                            alt: member.name
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/homes/home-2/Team.jsx",
+                                            lineNumber: 29,
+                                            columnNumber: 19
+                                        }, this)
+                                    }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Team.jsx",
-                                        lineNumber: 23,
+                                        lineNumber: 28,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2146,38 +2129,62 @@ function Team() {
                                                     children: member.name
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/homes/home-2/Team.jsx",
-                                                    lineNumber: 40,
+                                                    lineNumber: 38,
                                                     columnNumber: 21
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/components/homes/home-2/Team.jsx",
-                                                lineNumber: 39,
+                                                lineNumber: 37,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 children: member.role
                                             }, void 0, false, {
                                                 fileName: "[project]/components/homes/home-2/Team.jsx",
-                                                lineNumber: 42,
+                                                lineNumber: 40,
                                                 columnNumber: 19
+                                            }, this),
+                                            linkedInSocial && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                style: {
+                                                    marginTop: "24px"
+                                                },
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                    href: linkedInSocial.url || "#",
+                                                    className: `${linkedInSocial.icon} tf-color-green`,
+                                                    "aria-label": `${member.name} LinkedIn`,
+                                                    target: "_blank",
+                                                    rel: "noopener noreferrer",
+                                                    style: {
+                                                        fontSize: "24px"
+                                                    }
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/homes/home-2/Team.jsx",
+                                                    lineNumber: 43,
+                                                    columnNumber: 23
+                                                }, this)
+                                            }, void 0, false, {
+                                                fileName: "[project]/components/homes/home-2/Team.jsx",
+                                                lineNumber: 42,
+                                                columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/homes/home-2/Team.jsx",
-                                        lineNumber: 38,
+                                        lineNumber: 36,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/homes/home-2/Team.jsx",
-                                lineNumber: 22,
-                                columnNumber: 15
+                                lineNumber: 27,
+                                columnNumber: 17
                             }, this)
                         }, index, false, {
                             fileName: "[project]/components/homes/home-2/Team.jsx",
-                            lineNumber: 21,
-                            columnNumber: 13
-                        }, this))
+                            lineNumber: 26,
+                            columnNumber: 15
+                        }, this);
+                    })
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/homes/home-2/Team.jsx",

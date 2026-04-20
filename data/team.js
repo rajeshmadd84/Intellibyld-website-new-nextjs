@@ -8,6 +8,7 @@ export const teamMembers = [
       {
         platform: "linkedin",
         icon: "icon-linkedin2",
+        url: "https://www.linkedin.com/in/rajeshmaddineni/",
       },
     ],
   },
@@ -20,6 +21,7 @@ export const teamMembers = [
       {
         platform: "linkedin",
         icon: "icon-linkedin2",
+        url: "https://www.linkedin.com/in/kalimili/",
       },
     ],
   },
@@ -32,6 +34,7 @@ export const teamMembers = [
       {
         platform: "linkedin",
         icon: "icon-linkedin2",
+        url: "https://www.linkedin.com/in/hari-sagaran/",
       },
     ],
   },
@@ -44,6 +47,7 @@ export const teamMembers = [
       {
         platform: "linkedin",
         icon: "icon-linkedin2",
+        url: "https://www.linkedin.com/in/jidesh-kambil-6a43a254/",
       },
     ],
   },
