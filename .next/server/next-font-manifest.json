@@ -19,6 +19,7 @@
     "[project]/app/contact-us/page": [],
     "[project]/app/digital-twins/page": [],
     "[project]/app/page": [],
+    "[project]/app/pilot/page": [],
     "[project]/app/sustainability/page": []
   },
   "appUsingSizeAdjust": false,

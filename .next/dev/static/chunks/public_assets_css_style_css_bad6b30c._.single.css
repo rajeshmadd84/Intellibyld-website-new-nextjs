@@ -1858,6 +1858,20 @@ ul.wg-menu li a:hover {
   line-height: 29px;
 }
 
+.cta-wrapper.cta-split-cols {
+  background: #2563eb;
+  grid-template-columns: minmax(0, 4fr) minmax(0, 6fr);
+  align-items: start;
+  gap: 24px clamp(16px, 3vw, 32px);
+  display: grid;
+}
+
+@media (max-width: 820px) {
+  .cta-wrapper.cta-split-cols {
+    grid-template-columns: 1fr;
+  }
+}
+
 .cta-wrapper-1 {
   text-align: center;
   background: linear-gradient(145deg, #2563eb 0%, #60a5fa 100%);

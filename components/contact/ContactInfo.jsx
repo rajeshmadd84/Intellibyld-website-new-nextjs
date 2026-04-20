@@ -1,4 +1,5 @@
 import { contactLinks } from "@/data/contactLinks";
+import Image from "next/image";
 import React from "react";
 
 export default function ContactInfo() {
@@ -6,27 +7,47 @@ export default function ContactInfo() {
     <div className="contact-info pt-130">
       <div className="themesflat-container">
         <div className="row">
-          {contactLinks.map((item, index) => (
-            <div className="col-lg-3 col-md-6 col-12" key={index}>
+          {contactLinks.map((item) => (
+            <div className="col-lg-6 col-md-12 col-12" key={item.id}>
               <div
                 className="wg-helpful style-1 wow fadeInUp"
                 data-wow-delay={item.delay}
               >
                 <div className="image">
                   <div className="icon">
-                    <span className={item.iconClass} />
+                    <Image
+                      src={item.iconSrc}
+                      alt={item.iconAlt ?? ""}
+                      width={40}
+                      height={40}
+                    />
                   </div>
                 </div>
                 <h6>
-                  <a href={item.link}>{item.title}</a>
+                  {item.link ? (
+                    <a href={item.link}>{item.title}</a>
+                  ) : (
+                    item.title
+                  )}
                 </h6>
                 <p>
-                  {item.description.split("\n").map((line, i) => (
-                    <React.Fragment key={i}>
-                      {line}
-                      <br />
-                    </React.Fragment>
-                  ))}
+                  {item.descriptionBold ? (
+                    <strong>
+                      {item.description.split("\n").map((line, i) => (
+                        <React.Fragment key={i}>
+                          {line}
+                          <br />
+                        </React.Fragment>
+                      ))}
+                    </strong>
+                  ) : (
+                    item.description.split("\n").map((line, i) => (
+                      <React.Fragment key={i}>
+                        {line}
+                        <br />
+                      </React.Fragment>
+                    ))
+                  )}
                 </p>
               </div>
             </div>

@@ -48,7 +48,7 @@ export default function Header2() {
                 </ul>
               </nav>
               {/* /#main-nav */}
-              <div className="header-right">
+              <div className="header-right d-none d-lg-flex">
                 <Link
                   href={`/pilot`}
                   className="tf-button style-green get-start h45"

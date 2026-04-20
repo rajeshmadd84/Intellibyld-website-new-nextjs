@@ -10,7 +10,7 @@ export default function FlatTitle() {
       <div className="themesflat-container">
         <div className="row">
           <div className="col-12">
-            <div className="heading">Contact Us</div>
+            <div className="heading">Build With Certainity</div>
             
           </div>
         </div>

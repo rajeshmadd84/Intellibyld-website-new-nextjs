@@ -2272,6 +2272,22 @@ ul.wg-menu li a:hover {
   margin-bottom: 27px;
 }
 
+/* CTA — headline column 40%, content column 60% (brand primary / “tf-color-green” #2563EB) */
+.cta-wrapper.cta-split-cols {
+  display: grid;
+  grid-template-columns: minmax(0, 4fr) minmax(0, 6fr);
+  column-gap: clamp(16px, 3vw, 32px);
+  row-gap: 24px;
+  align-items: start;
+  background: #2563eb;
+}
+
+@media (max-width: 820px) {
+  .cta-wrapper.cta-split-cols {
+    grid-template-columns: 1fr;
+  }
+}
+
 .cta-wrapper-1 {
   position: relative;
   border-radius: 30px;

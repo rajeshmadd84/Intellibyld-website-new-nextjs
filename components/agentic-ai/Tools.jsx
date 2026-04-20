@@ -19,7 +19,9 @@ export default function Tools() {
           {agenticAiTools.map((tool, index) => (
             <div className="col-md-5" key={index}>
               <div className="wg-tool wow fadeInUp">
-                <div className={`icon ${tool.icon}`} />
+                <div className="icon">
+                  <img src={tool.icon} alt={tool.title} width={48} height={48} />
+                </div>
                 <h3>{tool.title}</h3>
                 <p>{tool.description}</p>
                 <div className="order">{tool.order}</div>

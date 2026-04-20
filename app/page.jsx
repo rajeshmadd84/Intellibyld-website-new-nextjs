@@ -14,8 +14,8 @@ import Testimonials from "@/components/homes/home-2/Testimonials";
 import React from "react";
 import ScrollTop from "@/components/common/ScrollTop";
 export const metadata = {
-  title: "Home 2 || MunAi - AI Writer & Copywriting Nextjs Template",
-  description: "MunAi - AI Writer & Copywriting Nextjs Template",
+  title: "IntelliByld || AI platform for construction supply chains",
+  description: "IntelliByld is an AI platform for construction supply chains that uses AI to automate the procurement, shipment tracking, and bid evaluation process.",
 };
 export default function page() {
   return (

@@ -33,7 +33,7 @@ export default function DigitalTwin() {
             <div className="image wow fadeInUp">
               <Image
                 className="img-01"
-                src="/assets/images/bg-section/image-10.png"
+                src="/assets/images/bg-section/agenticai.jpg"
                 alt="image"
                 width={644}
                 height={476}
@@ -46,9 +46,6 @@ export default function DigitalTwin() {
             {servicesItems.map((item, index) => (
               <div className="col-md-6" key={index}>
                 <div className="services-item wow fadeInUp">
-                  <div className="icon">
-                    <i className={item.iconClass} />
-                  </div>
                   <div className="content flex-grow">
                     <h4>{item.title}</h4>
                     <p dangerouslySetInnerHTML={{ __html: item.description }} />

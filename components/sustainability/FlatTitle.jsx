@@ -11,16 +11,9 @@ export default function FlatTitle() {
         <div className="row">
           <div className="col-12">
             <div className="heading">
-              Sustain<span>ability</span>
+            Eliminating Waste through <span>Intelligence</span>
             </div>
-            <ul className="breadcrumbs">
-              <li className="icon-arrow-right relative">
-                <Link href={`/`}>Home</Link>
-              </li>
-              <li className="active">
-                <a href="#">Sustainability</a>
-              </li>
-            </ul>
+            
           </div>
         </div>
       </div>

@@ -1201,19 +1201,19 @@ const listItems3 = [
 const features = [
     {
         id: 1,
-        icon: "icon-laptop-code",
+        icon: "/assets/images/features/ai.png",
         title: "Construction-Trained Intelligence",
         description: "Our Small Language Model(SLM) is fine-tuned specifically on construction data, allowing it to understand the deep nuances of project logistics and make high-stakes autonomous decisions."
     },
     {
         id: 2,
-        icon: "icon-rocket-launch",
+        icon: "/assets/images/features/real-time.png",
         title: "Real-Time Digital Twins",
         description: "We build a live virtual map of every material's journey. Spot threats and identify opportunities before they disrupt your site, keeping your schedule perfectly in sync."
     },
     {
         id: 3,
-        icon: "icon-gift",
+        icon: "/assets/images/features/bot.png",
         title: "Agentic Workflow Automation",
         description: "Seamlessly integrate with BIM, ERP, and PM software. Our Agentic AI automates RFQs, shipment tracking, and bidding evaluations so your team can focus on building."
     }
@@ -1942,28 +1942,24 @@ const services = [
 const servicesItems = [
     {
         id: 1,
-        iconClass: "icon-copy-writing-1",
         title: "Real-time Awareness",
         description: "Live tracking of every asset from the factory gate to the Construction site.",
         link: "#"
     },
     {
         id: 2,
-        iconClass: "icon-wishlist-1",
         title: "Predictive Resilience",
         description: "Identify supply chain threats and potential bottlenecks before they disrupt your site execution.",
         link: "#"
     },
     {
         id: 3,
-        iconClass: "icon-internet-1",
         title: "Autonomous Decisions",
         description: "Agentic AI that doesn't just flag delays but actively re-routes shipments and manages RFQs.",
         link: "#"
     },
     {
         id: 4,
-        iconClass: "icon-megaphone-1",
         title: "Carbon Accountability",
         description: "Automated monitoring of material related embodied carbon emissions based on actual delivery data.",
         link: "#"
@@ -2657,29 +2653,29 @@ const roadMapItems = [
     {
         id: 1,
         number: "1",
-        title: "Choose Your Writing Project",
-        description: "Must explain want all this mistaken see denouncing pleasure & praising",
+        title: "BIM & Schedule Sync",
+        description: "Our AI ingests your 3D BIM models and master schedules to build the foundation of your project's digital twin.",
         link: "#"
     },
     {
         id: 2,
         number: "2",
-        title: "Give MunAi a bit of context",
-        description: "At vero eos et accusamus et iusto odio dignissimos ducimus blanditiis",
+        title: "Ground-Truth Integration",
+        description: "Agents ingest unstructured data from site logs, delivery notes, and WhatsApp messages to map real-world material movement.",
         link: "#"
     },
     {
         id: 3,
         number: "3",
-        title: "Edit and polish to perfection",
-        description: "Must explain want all this mistaken see denouncing pleasure & praising",
+        title: "SLM Threat Detection",
+        description: "A sector-specific SLM identifies bottlenecks and simulates the impact of logistics delays on your critical path.",
         link: "#"
     },
     {
         id: 4,
         number: "4",
-        title: "Publish your Social Post",
-        description: "To take trivial example see undertakes laborious physical to advantage",
+        title: "Autonomous Execution",
+        description: "The twin triggers actions like re-routing shipments or shifting crews—to proactively neutralize threats.",
         link: "#"
     }
 ];

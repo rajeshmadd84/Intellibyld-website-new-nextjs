@@ -738,97 +738,49 @@ __turbopack_context__.s([
 const teamMembers = [
     {
         id: 1,
-        image: "/assets/images/team-member/image-01.jpg",
-        name: "Alexander S. Gallo",
-        role: "Creative Designer",
+        image: "/assets/images/team-member/rajesh.jpg",
+        name: "Rajesh Maddineni",
+        role: "CEO & Co-Founder",
         socials: [
-            {
-                platform: "facebook",
-                icon: "icon-facebook"
-            },
-            {
-                platform: "twitter",
-                icon: "icon-twitter"
-            },
             {
                 platform: "linkedin",
                 icon: "icon-linkedin2"
-            },
-            {
-                platform: "instagram",
-                icon: "icon-instagram"
             }
         ]
     },
     {
         id: 2,
-        image: "/assets/images/team-member/image-02.jpg",
-        name: "Jason E. Pacheco",
-        role: "AI Code Developer",
+        image: "/assets/images/team-member/tharun1.jpeg",
+        name: "Thaun S Kalimili",
+        role: "CTO & Co-Founder",
         socials: [
-            {
-                platform: "facebook",
-                icon: "icon-facebook"
-            },
-            {
-                platform: "twitter",
-                icon: "icon-twitter"
-            },
             {
                 platform: "linkedin",
                 icon: "icon-linkedin2"
-            },
-            {
-                platform: "instagram",
-                icon: "icon-instagram"
             }
         ]
     },
     {
         id: 3,
-        image: "/assets/images/team-member/image-03.jpg",
-        name: "Ronald L. Townsend",
-        role: "Media Generator",
+        image: "/assets/images/team-member/hari.jpg",
+        name: "Hari Sagaran",
+        role: "CGO & Co-Founder",
         socials: [
-            {
-                platform: "facebook",
-                icon: "icon-facebook"
-            },
-            {
-                platform: "twitter",
-                icon: "icon-twitter"
-            },
             {
                 platform: "linkedin",
                 icon: "icon-linkedin2"
-            },
-            {
-                platform: "instagram",
-                icon: "icon-instagram"
             }
         ]
     },
     {
         id: 4,
-        image: "/assets/images/team-member/image-04.jpg",
-        name: "Thomas R. Mummert",
-        role: "AI Image Designer",
+        image: "/assets/images/team-member/jidesh.jpeg",
+        name: "Jidesh Kambil",
+        role: "Founding Advisor",
         socials: [
-            {
-                platform: "facebook",
-                icon: "icon-facebook"
-            },
-            {
-                platform: "twitter",
-                icon: "icon-twitter"
-            },
             {
                 platform: "linkedin",
                 icon: "icon-linkedin2"
-            },
-            {
-                platform: "instagram",
-                icon: "icon-instagram"
             }
         ]
     }

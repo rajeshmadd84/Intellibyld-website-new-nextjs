@@ -1,6 +1,12 @@
-:HL["/_next/static/chunks/72f645546ef6354a.css","style"]
+:HL["/_next/static/chunks/9c1d4f6dab913051.css","style"]
 :HL["/_next/static/chunks/4ef37eb75cf547df.css","style"]
 :HL["/_next/static/chunks/44269af0ceddbf40.css","style"]
-:HL["/_next/static/chunks/07d0c9d77298ef54.css","style"]
+:HL["/_next/static/chunks/fa930b7887ef720a.css","style"]
 :HC["/",""]
-0:{"buildId":"CI_phnjKaMufC9VhXa85i","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"agentic-ai","paramType":null,"paramKey":"agentic-ai","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/assets/images/icon-agenticai/rfq.png","image"]
+:HL["/assets/images/icon-agenticai/evaluation.png","image"]
+:HL["/assets/images/icon-agenticai/shipment.png","image"]
+:HL["/assets/images/icon-agenticai/scheduling.png","image"]
+:HL["/assets/images/icon-agenticai/caution-sign.png","image"]
+:HL["/assets/images/icon-agenticai/learning.png","image"]
+0:{"buildId":"nZKDb2O_g7_Q2ztAcSYEM","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"agentic-ai","paramType":null,"paramKey":"agentic-ai","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

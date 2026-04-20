@@ -27,12 +27,12 @@ export default function page() {
           <Agent1/>
           <Tools />
           <Features />
-          
-          
+
+
           <Footer2 />
         </div>
       </div>
-      
+
       <ScrollTop />
     </>
   );

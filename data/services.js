@@ -34,31 +34,30 @@ export const services = [
 export const servicesItems = [
   {
     id: 1,
-    iconClass: "icon-copy-writing-1",
     title: "Real-time Awareness",
-    description: "Live tracking of every asset from the factory gate to the Construction site.",
+    description:
+      "Live tracking of every asset from the factory gate to the Construction site.",
     link: "#",
   },
   {
     id: 2,
-    iconClass: "icon-wishlist-1",
     title: "Predictive Resilience",
-    description: "Identify supply chain threats and potential bottlenecks before they disrupt your site execution.",
+    description:
+      "Identify supply chain threats and potential bottlenecks before they disrupt your site execution.",
     link: "#",
   },
   {
     id: 3,
-    iconClass: "icon-internet-1",
     title: "Autonomous Decisions",
-    description: "Agentic AI that doesn't just flag delays but actively re-routes shipments and manages RFQs.",
+    description:
+      "Agentic AI that doesn't just flag delays but actively re-routes shipments and manages RFQs.",
     link: "#",
   },
   {
     id: 4,
-    iconClass: "icon-megaphone-1",
     title: "Carbon Accountability",
-    description: "Automated monitoring of material related embodied carbon emissions based on actual delivery data.",
+    description:
+      "Automated monitoring of material related embodied carbon emissions based on actual delivery data.",
     link: "#",
   },
-  
 ];

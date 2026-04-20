@@ -22,29 +22,7 @@ export default function AgenticAi() {
                 Stop wasting your team's potential on the "Integration Trap." While legacy systems require manual data entry and constant oversight, Intellibyld’s Agentic AI acts as a tireless digital workforce. 
                 It autonomously manages the complex coordination between your BIM models, ERP data, and thousands of supplier interactions, making real-time decisions that keep your project on track.
               </p>
-              <ul className="list-item tick-white" style={{ color: "#fff" }}>
-                <li>
-                  <i className="icon-tick" style={{ color: "#fff" }} />
-                  <span className="tf-color-green" style={{ fontWeight: 700 }}>
-                    Autonomous Logistics:
-                  </span>{" "}
-                  Freeing teams for site execution.
-                </li>
-                <li>
-                  <i className="icon-tick" style={{ color: "#fff" }} />
-                  <span className="tf-color-green" style={{ fontWeight: 700 }}>
-                    Proactive Neutralization:
-                  </span>{" "}
-                  Stopping threats early.
-                </li>
-                <li>
-                  <i className="icon-tick" style={{ color: "#fff" }} />
-                  <span className="tf-color-green" style={{ fontWeight: 700 }}>
-                    Zero Friction:
-                  </span>{" "}
-                  Fast-tracking RFQs and shipments.
-                </li>
-              </ul>
+             
               <a href="/agentic-ai" className="tf-button style-2 mt-20">
                 <span>Learn more</span>
                 <i className="icon-arrow-right2" />
@@ -55,7 +33,7 @@ export default function AgenticAi() {
             <div className="image wow fadeInUp">
               <Image
                 className="img-01"
-                src="/assets/images/bg-section/agenticai.jpg"
+                src="/assets/images/bg-section/dgtwin4.png"
                 alt="image"
                 width={558}
                 height={522}

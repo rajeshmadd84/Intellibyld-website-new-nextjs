@@ -204,57 +204,31 @@ function Banner() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "grid-button flex gap20 items-center mb-50",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "/pilot",
-                                                className: "tf-button style-2",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        children: "Request Free Demo"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                        lineNumber: 25,
-                                                        columnNumber: 19
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                        className: "icon-arrow-right2"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                        lineNumber: 26,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                lineNumber: 24,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "/pilot",
-                                                className: "tf-button style-2",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        children: "Try For Free"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                        lineNumber: 29,
-                                                        columnNumber: 19
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                        className: "icon-arrow-right2"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                        lineNumber: 30,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                lineNumber: 28,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                            href: "/pilot",
+                                            className: "tf-button style-2",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    children: "Request Free Demo"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/homes/home-2/Banner.jsx",
+                                                    lineNumber: 25,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                    className: "icon-arrow-right2"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/homes/home-2/Banner.jsx",
+                                                    lineNumber: 26,
+                                                    columnNumber: 19
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/components/homes/home-2/Banner.jsx",
+                                            lineNumber: 24,
+                                            columnNumber: 17
+                                        }, this)
+                                    }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Banner.jsx",
                                         lineNumber: 23,
                                         columnNumber: 15
@@ -279,36 +253,36 @@ function Banner() {
                                         className: "item-3"
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                        lineNumber: 38,
+                                        lineNumber: 35,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "item-4"
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                        lineNumber: 39,
+                                        lineNumber: 36,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                         src: "/assets/images/bg-section/ib-hero1.jpg",
                                         alt: "image",
-                                        width: 667,
-                                        height: 416,
+                                        width: 800,
+                                        height: 549,
                                         className: "item-1"
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                        lineNumber: 40,
+                                        lineNumber: 37,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                lineNumber: 37,
+                                lineNumber: 34,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/homes/home-2/Banner.jsx",
-                            lineNumber: 36,
+                            lineNumber: 33,
                             columnNumber: 11
                         }, this)
                     ]
@@ -537,28 +511,24 @@ const services = [
 const servicesItems = [
     {
         id: 1,
-        iconClass: "icon-copy-writing-1",
         title: "Real-time Awareness",
         description: "Live tracking of every asset from the factory gate to the Construction site.",
         link: "#"
     },
     {
         id: 2,
-        iconClass: "icon-wishlist-1",
         title: "Predictive Resilience",
         description: "Identify supply chain threats and potential bottlenecks before they disrupt your site execution.",
         link: "#"
     },
     {
         id: 3,
-        iconClass: "icon-internet-1",
         title: "Autonomous Decisions",
         description: "Agentic AI that doesn't just flag delays but actively re-routes shipments and manages RFQs.",
         link: "#"
     },
     {
         id: 4,
-        iconClass: "icon-megaphone-1",
         title: "Carbon Accountability",
         description: "Automated monitoring of material related embodied carbon emissions based on actual delivery data.",
         link: "#"
@@ -681,7 +651,7 @@ function DigitalTwin() {
                                 className: "image wow fadeInUp",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                     className: "img-01",
-                                    src: "/assets/images/bg-section/image-10.png",
+                                    src: "/assets/images/bg-section/agenticai.jpg",
                                     alt: "image",
                                     width: 644,
                                     height: 476
@@ -714,48 +684,32 @@ function DigitalTwin() {
                                 className: "col-md-6",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "services-item wow fadeInUp",
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "icon",
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                className: item.iconClass
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "content flex-grow",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                children: item.title
                                             }, void 0, false, {
                                                 fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
                                                 lineNumber: 50,
                                                 columnNumber: 21
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                dangerouslySetInnerHTML: {
+                                                    __html: item.description
+                                                }
+                                            }, void 0, false, {
+                                                fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
+                                                lineNumber: 51,
+                                                columnNumber: 21
                                             }, this)
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                            lineNumber: 49,
-                                            columnNumber: 19
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "content flex-grow",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                    children: item.title
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                                    lineNumber: 53,
-                                                    columnNumber: 21
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    dangerouslySetInnerHTML: {
-                                                        __html: item.description
-                                                    }
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                                    lineNumber: 54,
-                                                    columnNumber: 21
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
-                                            lineNumber: 52,
-                                            columnNumber: 19
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
+                                        lineNumber: 49,
+                                        columnNumber: 19
+                                    }, this)
+                                }, void 0, false, {
                                     fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
                                     lineNumber: 48,
                                     columnNumber: 17
@@ -925,111 +879,6 @@ function AgenticAi() {
                                     lineNumber: 21,
                                     columnNumber: 15
                                 }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                    className: "list-item tick-white",
-                                    style: {
-                                        color: "#fff"
-                                    },
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                    className: "icon-tick",
-                                                    style: {
-                                                        color: "#fff"
-                                                    }
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                                    lineNumber: 27,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "tf-color-green",
-                                                    style: {
-                                                        fontWeight: 700
-                                                    },
-                                                    children: "Autonomous Logistics:"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                                    lineNumber: 28,
-                                                    columnNumber: 19
-                                                }, this),
-                                                " ",
-                                                "Freeing teams for site execution."
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                            lineNumber: 26,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                    className: "icon-tick",
-                                                    style: {
-                                                        color: "#fff"
-                                                    }
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                                    lineNumber: 34,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "tf-color-green",
-                                                    style: {
-                                                        fontWeight: 700
-                                                    },
-                                                    children: "Proactive Neutralization:"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                                    lineNumber: 35,
-                                                    columnNumber: 19
-                                                }, this),
-                                                " ",
-                                                "Stopping threats early."
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                            lineNumber: 33,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                    className: "icon-tick",
-                                                    style: {
-                                                        color: "#fff"
-                                                    }
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                                    lineNumber: 41,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "tf-color-green",
-                                                    style: {
-                                                        fontWeight: 700
-                                                    },
-                                                    children: "Zero Friction:"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                                    lineNumber: 42,
-                                                    columnNumber: 19
-                                                }, this),
-                                                " ",
-                                                "Fast-tracking RFQs and shipments."
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                            lineNumber: 40,
-                                            columnNumber: 17
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                    lineNumber: 25,
-                                    columnNumber: 15
-                                }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                     href: "/agentic-ai",
                                     className: "tf-button style-2 mt-20",
@@ -1038,20 +887,20 @@ function AgenticAi() {
                                             children: "Learn more"
                                         }, void 0, false, {
                                             fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                            lineNumber: 49,
+                                            lineNumber: 27,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                             className: "icon-arrow-right2"
                                         }, void 0, false, {
                                             fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                            lineNumber: 50,
+                                            lineNumber: 28,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                    lineNumber: 48,
+                                    lineNumber: 26,
                                     columnNumber: 15
                                 }, this)
                             ]
@@ -1071,23 +920,23 @@ function AgenticAi() {
                             className: "image wow fadeInUp",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                 className: "img-01",
-                                src: "/assets/images/bg-section/agenticai.jpg",
+                                src: "/assets/images/bg-section/dgtwin4.png",
                                 alt: "image",
                                 width: 558,
                                 height: 522
                             }, void 0, false, {
                                 fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                                lineNumber: 56,
+                                lineNumber: 34,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                            lineNumber: 55,
+                            lineNumber: 33,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
-                        lineNumber: 54,
+                        lineNumber: 32,
                         columnNumber: 11
                     }, this)
                 ]
@@ -1181,19 +1030,19 @@ const listItems3 = [
 const features = [
     {
         id: 1,
-        icon: "icon-laptop-code",
+        icon: "/assets/images/features/ai.png",
         title: "Construction-Trained Intelligence",
         description: "Our Small Language Model(SLM) is fine-tuned specifically on construction data, allowing it to understand the deep nuances of project logistics and make high-stakes autonomous decisions."
     },
     {
         id: 2,
-        icon: "icon-rocket-launch",
+        icon: "/assets/images/features/real-time.png",
         title: "Real-Time Digital Twins",
         description: "We build a live virtual map of every material's journey. Spot threats and identify opportunities before they disrupt your site, keeping your schedule perfectly in sync."
     },
     {
         id: 3,
-        icon: "icon-gift",
+        icon: "/assets/images/features/bot.png",
         title: "Agentic Workflow Automation",
         description: "Seamlessly integrate with BIM, ERP, and PM software. Our Agentic AI automates RFQs, shipment tracking, and bidding evaluations so your team can focus on building."
     }
@@ -1319,7 +1168,9 @@ function Doing() {
                             className: "heading-section wow fadeInUp style-1 text-center",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
-                                    className: "tf-color-green",
+                                    style: {
+                                        color: "#fff"
+                                    },
                                     children: "What is Intellibyld?"
                                 }, void 0, false, {
                                     fileName: "[project]/components/homes/home-2/Features.jsx",
@@ -1329,36 +1180,25 @@ function Doing() {
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "main-title",
                                     children: [
-                                        "The ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             className: "tf-color-green",
-                                            children: "AI Powered OS"
+                                            children: "Autonomous Execution "
                                         }, void 0, false, {
                                             fileName: "[project]/components/homes/home-2/Features.jsx",
                                             lineNumber: 13,
-                                            columnNumber: 21
+                                            columnNumber: 17
                                         }, this),
-                                        " that orchestrates your ",
+                                        "  ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/components/homes/home-2/Features.jsx",
                                             lineNumber: 14,
                                             columnNumber: 17
                                         }, this),
-                                        " construction supply chain through ",
+                                        " for Construction Supply Chains. ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/components/homes/home-2/Features.jsx",
                                             lineNumber: 14,
-                                            columnNumber: 58
-                                        }, this),
-                                        " ",
-                                        " ",
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: "animation-text tf-color-green",
-                                            children: "Autonomous Execution"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/homes/home-2/Features.jsx",
-                                            lineNumber: 16,
-                                            columnNumber: 17
+                                            columnNumber: 56
                                         }, this)
                                     ]
                                 }, void 0, true, {
@@ -1384,41 +1224,44 @@ function Doing() {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "icon",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: item.icon
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                            src: item.icon,
+                                            alt: item.title,
+                                            width: 48,
+                                            height: 48
                                         }, void 0, false, {
                                             fileName: "[project]/components/homes/home-2/Features.jsx",
-                                            lineNumber: 26,
+                                            lineNumber: 24,
                                             columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Features.jsx",
-                                        lineNumber: 25,
+                                        lineNumber: 23,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         children: item.title
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Features.jsx",
-                                        lineNumber: 28,
+                                        lineNumber: 26,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         children: item.description
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Features.jsx",
-                                        lineNumber: 29,
+                                        lineNumber: 27,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/homes/home-2/Features.jsx",
-                                lineNumber: 24,
+                                lineNumber: 22,
                                 columnNumber: 15
                             }, this)
                         }, index, false, {
                             fileName: "[project]/components/homes/home-2/Features.jsx",
-                            lineNumber: 23,
+                            lineNumber: 21,
                             columnNumber: 13
                         }, this))
                 ]
@@ -2425,8 +2268,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$common$2f$Scro
 ;
 ;
 const metadata = {
-    title: "Home 2 || MunAi - AI Writer & Copywriting Nextjs Template",
-    description: "MunAi - AI Writer & Copywriting Nextjs Template"
+    title: "IntelliByld || AI platform for construction supply chains",
+    description: "IntelliByld is an AI platform for construction supply chains that uses AI to automate the procurement, shipment tracking, and bid evaluation process."
 };
 function page() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Fragment"], {

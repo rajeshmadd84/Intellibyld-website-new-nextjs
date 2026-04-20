@@ -17,9 +17,6 @@ export default function Features() {
             <React.Fragment key={item.step}>
               <div className="flowchart-card wow fadeInUp">
                 <div className="flowchart-step">{`0${item.step}`}</div>
-                <div className="flowchart-icon">
-                  <i className={item.icon} />
-                </div>
                 <h4 className="flowchart-title">{item.title}</h4>
                 <p className="flowchart-desc">{item.description}</p>
               </div>

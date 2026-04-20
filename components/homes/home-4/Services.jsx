@@ -19,9 +19,6 @@ export default function Services() {
           {servicesItems.map((item, index) => (
             <div className="col-md-6" key={index}>
               <div className="services-item wow fadeInUp">
-                <div className="icon">
-                  <i className={item.iconClass} />
-                </div>
                 <div className="content flex-grow">
                   <h4>{item.title}</h4>
                   <p dangerouslySetInnerHTML={{ __html: item.description }} />

@@ -6,24 +6,24 @@ export default function DigitalTwin1() {
   return (
     <div className="wg-create-design style-3 pb-130 pt-130">
       <div className="themesflat-container">
-        <div className="row">
+        <div className="row align-items-center">
           <div className="col-lg-6">
             <div className="content">
               <div className="heading-section wow fadeInUp style-1">
-                
-                <div className="main-title" style={{ color: "#000" }}>
-                  Closing the Reality Gap{" "}<br />
+                <h6 className="tf-color-green">What is it?</h6>
+                <div className="main-title" style={{ color: "#000", fontSize: "36px", lineHeight: "52px" }}>
+                   Not a BIM model. Not a dashboard.{" "}<br />
                   <span className="animation-text tf-color-green">
-                    with Real-Time Digital Twins
+                   A living replica of your project's operational reality.
                   </span>
                 </div>
               </div>
-              <p style={{ color: "#fff" }}>
-               Most digital models are out of date the moment construction begins. 
-               Intellibyld’s Living Digital Twin creates a high fidelity bridge between your planning office and the active job site. 
-               By continuously ingesting data from thousands of fragmented sources ranging from global shipping logs to WhatsApp site diaries. 
-               Our AI ensures your BIM model is a live reflection of physical reality, not a historical design document.
-
+              <p style={{ color: "#000000", fontSize: "18px", lineHeight: "30px" }}>
+               A Supply Chain Digital Twin is a continuously updated virtual model of everything that feeds your construction site materials in transit, workforce on the ground, equipment on site, and the communications that connect them all.
+              <br /><br />
+               Unlike a BIM model, which captures design intent and freezes the moment construction begins, IntelliByld's Digital Twin captures execution reality and updates itself in real time as that reality changes.
+               <br /><br />
+               Unlike a dashboard, which shows you what has already happened, the Digital Twin knows what is about to happen — because it is watching every signal across your supply chain, your site communications, and your operational schedule simultaneously.
               </p>
               
               

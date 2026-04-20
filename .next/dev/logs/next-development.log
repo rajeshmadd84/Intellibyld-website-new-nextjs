@@ -1,16 +1,497 @@
-[00:00:01.071] Server  LOG     ✓ Ready in 810ms
-[00:00:03.252] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:03.278] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:03.433] Browser WARN    Image with src "http://localhost:3000/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:03.956] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:04.293] Browser WARN    Image with src "http://localhost:3000/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:05.731] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:05.854] Browser WARN    Image with src "http://localhost:3000/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:05.854] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:08.963] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:09.068] Browser WARN    Image with src "http://localhost:3000/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:01:32.600] Server  LOG     ✓ Compiled in 448ms
-[00:01:59.928] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:00.035] Browser WARN    Image with src "http://localhost:3000/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:56.923] Server  LOG     ✓ Compiled in 158ms
-[00:03:07.063] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:03.437] Server  LOG     ✓ Ready in 3.2s
+[00:00:05.195] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:05.253] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:05.253] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:20:30.094] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:30.239] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:20:30.239] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:20:35.558] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:36.001] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:20:36.001] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:20:36.001] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:21:27.744] Browser ERROR   uncaughtError: Error: br is a void element tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[00:22:25.469] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:25.631] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:22:25.631] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:22:25.631] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:22:39.397] Server  LOG     ✓ Compiled in 283ms
+[00:28:17.486] Server  LOG     ✓ Compiled in 2.8s
+[00:37:33.753] Server  LOG     ✓ Compiled in 669ms
+[00:38:49.270] Server  LOG     ✓ Compiled in 281ms
+[00:39:22.712] Server  LOG     ✓ Compiled in 236ms
+[01:45:31.165] Server  LOG     ○ Compiling /sustainability ...
+[01:48:01.133] Server  ERROR   ⨯ ReferenceError: Faq is not defined
+[01:48:01.543] Server  LOG     ✓ Compiled in 0ms
+[01:48:01.810] Browser ERROR   uncaughtError: ReferenceError: Faq is not defined
+[01:48:22.466] Server  LOG     ✓ Compiled in 131ms
+[01:48:24.019] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:48:25.612] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:53:40.580] Server  LOG     ✓ Compiled in 717ms
+[01:59:14.155] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:59:14.354] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:59:33.554] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:59:33.684] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:59:40.567] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:59:40.672] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:01:08.039] Server  ERROR   ⨯ ./app/sustainability/page.jsx:6:1
+Module not found: Can't resolve '@/components/sustainability/Sustainability1'
+  4 | import Header2 from "@/components/headers/Header2";
+  5 | import Features from "@/components/sustainability/Features";
+> 6 | import Sustainability1 from "@/components/sustainability/Sustainability1";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import FlatTitle from "@/components/sustainability/FlatTitle";
+  8 | import Tools from "@/components/sustainability/Tools";
+  9 | import React from "react";
+
+Import map: aliased to relative './components/sustainability/Sustainability1' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:01:08.049] Server  ERROR   ⨯ ./app/sustainability/page.jsx:6:1
+Module not found: Can't resolve '@/components/sustainability/Sustainability1'
+  4 | import Header2 from "@/components/headers/Header2";
+  5 | import Features from "@/components/sustainability/Features";
+> 6 | import Sustainability1 from "@/components/sustainability/Sustainability1";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import FlatTitle from "@/components/sustainability/FlatTitle";
+  8 | import Tools from "@/components/sustainability/Tools";
+  9 | import React from "react";
+
+Import map: aliased to relative './components/sustainability/Sustainability1' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:01:08.065] Server  ERROR   ⨯ ./app/sustainability/page.jsx:6:1
+Module not found: Can't resolve '@/components/sustainability/Sustainability1'
+  4 | import Header2 from "@/components/headers/Header2";
+  5 | import Features from "@/components/sustainability/Features";
+> 6 | import Sustainability1 from "@/components/sustainability/Sustainability1";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import FlatTitle from "@/components/sustainability/FlatTitle";
+  8 | import Tools from "@/components/sustainability/Tools";
+  9 | import React from "react";
+
+Import map: aliased to relative './components/sustainability/Sustainability1' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:01:08.066] Server  ERROR   ⨯ ./app/sustainability/page.jsx:6:1
+Module not found: Can't resolve '@/components/sustainability/Sustainability1'
+  4 | import Header2 from "@/components/headers/Header2";
+  5 | import Features from "@/components/sustainability/Features";
+> 6 | import Sustainability1 from "@/components/sustainability/Sustainability1";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import FlatTitle from "@/components/sustainability/FlatTitle";
+  8 | import Tools from "@/components/sustainability/Tools";
+  9 | import React from "react";
+
+Import map: aliased to relative './components/sustainability/Sustainability1' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:01:08.068] Server  ERROR   ⨯ ./app/sustainability/page.jsx:6:1
+Module not found: Can't resolve '@/components/sustainability/Sustainability1'
+  4 | import Header2 from "@/components/headers/Header2";
+  5 | import Features from "@/components/sustainability/Features";
+> 6 | import Sustainability1 from "@/components/sustainability/Sustainability1";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import FlatTitle from "@/components/sustainability/FlatTitle";
+  8 | import Tools from "@/components/sustainability/Tools";
+  9 | import React from "react";
+
+Import map: aliased to relative './components/sustainability/Sustainability1' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:01:08.068] Server  ERROR   ⨯ ./app/sustainability/page.jsx:6:1
+Module not found: Can't resolve '@/components/sustainability/Sustainability1'
+  4 | import Header2 from "@/components/headers/Header2";
+  5 | import Features from "@/components/sustainability/Features";
+> 6 | import Sustainability1 from "@/components/sustainability/Sustainability1";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import FlatTitle from "@/components/sustainability/FlatTitle";
+  8 | import Tools from "@/components/sustainability/Tools";
+  9 | import React from "react";
+
+Import map: aliased to relative './components/sustainability/Sustainability1' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:01:08.192] Browser ERROR   ./app/sustainability/page.jsx:6:1
+Module not found: Can't resolve '@/components/sustainability/Sustainability1'
+  4 | import Header2 from "@/components/headers/Header2";
+  5 | import Features from "@/components/sustainability/Features";
+> 6 | import Sustainability1 from "@/components/sustainability/Sustainability1";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import FlatTitle from "@/components/sustainability/FlatTitle";
+  8 | import Tools from "@/components/sustainability/Tools";
+  9 | import React from "react";
+
+Import map: aliased to relative './components/sustainability/Sustainability1' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[02:01:08.302] Browser ERROR   ./app/sustainability/page.jsx:6:1
+Module not found: Can't resolve '@/components/sustainability/Sustainability1'
+  4 | import Header2 from "@/components/headers/Header2";
+  5 | import Features from "@/components/sustainability/Features";
+> 6 | import Sustainability1 from "@/components/sustainability/Sustainability1";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import FlatTitle from "@/components/sustainability/FlatTitle";
+  8 | import Tools from "@/components/sustainability/Tools";
+  9 | import React from "react";
+
+Import map: aliased to relative './components/sustainability/Sustainability1' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[02:01:08.303] Browser ERROR   ./app/sustainability/page.jsx:6:1
+Module not found: Can't resolve '@/components/sustainability/Sustainability1'
+  4 | import Header2 from "@/components/headers/Header2";
+  5 | import Features from "@/components/sustainability/Features";
+> 6 | import Sustainability1 from "@/components/sustainability/Sustainability1";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  7 | import FlatTitle from "@/components/sustainability/FlatTitle";
+  8 | import Tools from "@/components/sustainability/Tools";
+  9 | import React from "react";
+
+Import map: aliased to relative './components/sustainability/Sustainability1' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[02:01:34.293] Server  LOG     ✓ Compiled in 547ms
+[02:03:36.396] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:03:36.522] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:03:57.673] Server  LOG     ✓ Compiled in 146ms
+[02:04:05.022] Server  LOG     ✓ Compiled in 61ms
+[02:05:48.854] Server  LOG     ✓ Compiled in 177ms
+[02:06:42.702] Server  LOG     ✓ Compiled in 152ms
+[02:06:46.050] Server  LOG     ✓ Compiled in 32ms
+[02:07:03.992] Server  LOG     ✓ Compiled in 28ms
+[02:07:44.076] Server  LOG     ✓ Compiled in 39ms
+[02:08:55.432] Server  LOG     ✓ Compiled in 126ms
+[02:12:36.243] Server  LOG     ✓ Compiled in 691ms
+[02:13:37.422] Server  LOG     ✓ Compiled in 161ms
+[02:15:50.578] Server  LOG     ✓ Compiled in 269ms
+[02:15:51.976] Server  LOG     ✓ Compiled in 132ms
+[02:16:03.143] Server  LOG     ✓ Compiled in 32ms
+[02:17:33.396] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:17:33.530] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:19:05.151] Server  LOG     ✓ Compiled in 152ms
+[02:21:48.515] Server  LOG     ✓ Compiled in 136ms
+[02:23:11.704] Server  LOG     ✓ Compiled in 137ms
+[02:27:56.193] Server  LOG     ✓ Compiled in 21ms
+[02:27:56.632] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:28:03.905] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:28:04.175] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:28:04.175] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:28:23.954] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:28:24.152] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:28:24.152] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:28:24.152] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:28:30.397] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:30:16.968] Server  LOG     ✓ Compiled in 370ms
+[02:30:39.883] Server  LOG     ✓ Compiled in 201ms
+[02:30:43.898] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:30:44.450] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="sustainabi..." loading={null}>
+      <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+        <RedirectBoundary>
+          <RedirectErrorBoundary router={{...}}>
+            <InnerLayoutRouter url="/sustainab..." tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} ...>
+              <SegmentViewNode type="page" pagePath="sustainabi...">
+                <SegmentTrieNode>
+                <page>
+                  <page>
+                    <div id="wrapper">
+                      <div id="page" className="">
+                        <Header2>
+                        <div>
+                        <Sustainability1>
+                          <div className="wg-create-...">
+                            <div className="themesflat...">
+                              <div className="row align-...">
+                                <div>
+                                <div className="col-lg-6">
+                                  <div className="image wow ..." style={{width:"100%", ...}}>
+-                                   <div
+-                                     style={{position:"absolute",top:"8px",left:"8px",z-index:"1000",cursor:"pointer",opacity:"1", ...}}
+-                                   >
+                        ...
+                  ...
+              ...
+            ...
+
+[02:30:44.450] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:31:32.982] Server  LOG     ✓ Compiled in 866ms
+[02:41:36.443] Server  LOG     ✓ Compiled in 597ms
+[02:44:33.088] Server  LOG     ✓ Compiled in 372ms
+[02:44:33.774] Server  LOG     ✓ Compiled in 2ms
+[02:44:34.780] Server  LOG     ✓ Compiled in 0ms
+[02:46:42.078] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:46:42.078] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:48:07.953] Server  LOG     ✓ Compiled in 186ms
+[02:48:38.004] Server  LOG     ✓ Compiled in 156ms
+[02:49:32.918] Server  LOG     ✓ Compiled in 123ms
+[02:49:59.675] Server  LOG     ✓ Compiled in 160ms
+[02:50:12.206] Server  LOG     ✓ Compiled in 43ms
+[02:50:28.064] Server  LOG     ✓ Compiled in 46ms
+[02:51:05.019] Server  LOG     ✓ Compiled in 288ms
+[02:51:58.710] Server  LOG     ✓ Compiled in 77ms
+[02:55:00.922] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:55:38.145] Server  LOG     ✓ Compiled in 468ms
+[02:55:53.582] Server  LOG     ✓ Compiled in 94ms
+[02:58:05.064] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:58:05.457] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:58:05.457] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:58:20.823] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:58:23.035] Browser WARN    Image with src "/assets/images/item-background/box-feature-3.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:58:24.206] Browser WARN    Image with src "/assets/images/bg-section/image-16.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:58:30.472] Server  LOG     ✓ Compiled in 1029ms
+[02:58:36.035] Server  LOG     ✓ Compiled in 1ms
+[02:59:23.351] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:59:23.576] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:59:23.576] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:59:40.018] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:59:58.564] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:59:58.720] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:01:19.126] Server  LOG     ✓ Compiled in 505ms
+[03:01:59.266] Server  LOG     ✓ Compiled in 73ms
+[03:02:11.396] Server  LOG     ✓ Compiled in 70ms
+[03:02:56.326] Server  LOG     ✓ Compiled in 46ms
+[03:04:04.981] Server  LOG     ✓ Compiled in 575ms
+[03:04:35.029] Server  LOG     ✓ Compiled in 113ms
+[03:05:27.486] Server  LOG     ✓ Compiled in 159ms
+[03:05:46.984] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:05:47.127] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:06:28.016] Server  LOG     ✓ Compiled in 121ms
+[03:07:17.606] Server  LOG     ✓ Compiled in 62ms
+[03:07:36.023] Server  LOG     ✓ Compiled in 77ms
+[03:09:55.091] Server  LOG     ✓ Compiled in 2.1s
+[03:09:55.262] Server  LOG     ✓ Compiled in 0ms
+[03:12:59.947] Server  LOG     ✓ Compiled in 1121ms
+[03:13:59.524] Server  LOG     ✓ Compiled in 33ms
+[03:14:45.893] Server  LOG     ✓ Compiled in 156ms
+[03:17:02.335] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:17:52.676] Server  LOG     ✓ Compiled in 398ms
+[03:30:42.066] Server  LOG     ✓ Compiled in 584ms
+[03:30:47.919] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:30:48.101] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:34:35.637] Server  LOG     ✓ Compiled in 364ms
+[03:34:39.187] Browser WARN    Image with src "/assets/images/bg-section/dgtwin2.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:35:12.864] Server  LOG     ✓ Compiled in 137ms
+[03:35:14.233] Browser WARN    Image with src "/assets/images/bg-section/dgtwin3.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:35:21.293] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:35:21.293] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:35:22.730] Browser WARN    Image with src "/assets/images/bg-section/dgtwin3.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:35:43.879] Server  LOG     ✓ Compiled in 164ms
+[03:35:44.811] Browser WARN    Image with src "/assets/images/bg-section/dgtwin2.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:35:47.447] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:35:47.724] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="digital-tw..." loading={null}>
+      <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+        <RedirectBoundary>
+          <RedirectErrorBoundary router={{...}}>
+            <InnerLayoutRouter url="/digital-t..." tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} ...>
+              <SegmentViewNode type="page" pagePath="digital-tw...">
+                <SegmentTrieNode>
+                <page>
+                  <page>
+                    <div id="wrapper">
+                      <div id="page" className="">
+                        <Header2>
+                        <div>
+                        <div>
+                        <DigitalTwin2>
+                          <div className="wg-create-...">
+                            <div className="themesflat...">
+                              <div className="row">
+                                <div className="col-lg-6">
+                                  <div className="image wow ..." style={{width:"100%", ...}}>
+-                                   <div
+-                                     style={{position:"absolute",top:"8px",left:"8px",z-index:"1000",cursor:"pointer",opacity:"1", ...}}
+-                                   >
+                                ...
+                        ...
+                  ...
+              ...
+            ...
+
+[03:35:47.724] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:35:47.724] Browser WARN    Image with src "/assets/images/bg-section/dgtwin2.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:36:01.710] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:36:39.557] Server  LOG     ✓ Compiled in 726ms
+[03:36:41.502] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:36:41.657] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:36:41.657] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[03:36:41.657] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:37:18.390] Browser WARN    Image with src "/assets/images/bg-section/dgtwin2.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:37:23.398] Server  LOG     ✓ Compiled in 180ms
+[03:54:47.731] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:54:47.949] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:56:34.259] Server  LOG     ✓ Compiled in 1419ms
+[03:56:40.866] Server  LOG     ✓ Compiled in 67ms
+[03:56:46.821] Server  LOG     ✓ Compiled in 149ms
+[03:56:49.839] Server  LOG     ✓ Compiled in 190ms
+[03:56:57.000] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:56:57.150] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:57:10.724] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:57:38.139] Server  LOG     ✓ Compiled in 240ms
+[03:58:01.264] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:58:01.583] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:58:22.167] Server  LOG     ✓ Compiled in 58ms
+[03:58:25.181] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:58:25.336] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:59:06.848] Server  LOG     ✓ Compiled in 307ms
+[03:59:07.492] Server  LOG     ✓ Compiled in 100ms
+[03:59:07.800] Server  LOG     ✓ Compiled in 80ms
+[03:59:26.489] Browser WARN    Image with src "/assets/images/bg-section/dgtwin2.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:59:42.392] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:00:30.567] Server  LOG     ✓ Compiled in 440ms
+[04:00:37.268] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:00:37.422] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:00:37.422] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:54:45.784] Server  LOG     ✓ Compiled in 828ms
+[07:54:55.125] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:54:55.714] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:54:55.714] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:55:35.432] Server  LOG     ✓ Compiled in 330ms
+[07:55:44.449] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/assets/images/bg-section/agenticai1.jpg" "received" null
+[07:55:44.634] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/assets/images/bg-section/agenticai1.jpg" "received" null
+[07:55:44.674] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:55:44.816] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:55:44.816] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:56:02.701] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:56:03.582] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:56:03.774] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:56:03.774] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:56:03.774] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:57:30.130] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:57:30.313] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:57:30.313] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:57:30.313] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:57:36.123] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:57:36.594] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+      <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+        <RedirectBoundary>
+          <RedirectErrorBoundary router={{...}}>
+            <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} segmentPath={[...]} ...>
+              <SegmentViewNode type="page" pagePath="page.jsx">
+                <SegmentTrieNode>
+                <page>
+                  <div className="page-green">
+                    <div id="wrapper">
+                      <div id="page" className="home2">
+                        <Header2>
+                        <div>
+                        <div>
+                        <div>
+                        <AgenticAi>
+                          <div className="wg-create-...">
+                            <div className="themesflat...">
+                              <div className="row">
+                                <div>
+                                <div className="col-lg-6">
+                                  <div className="image wow ...">
+-                                   <div
+-                                     style={{position:"absolute",top:"8px",left:"48px",z-index:"1000",cursor:"pointer",opacity:"1", ...}}
+-                                   >
+                        ...
+                    ...
+              ...
+            ...
+
+[07:57:36.594] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:57:36.594] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:57:36.594] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:57:48.802] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:57:48.966] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:57:48.966] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:57:48.966] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:58:27.967] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:58:28.147] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:58:28.147] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:58:28.147] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:00:45.450] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:00:45.633] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:00:45.633] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:01:22.250] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:01:22.250] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:01:22.250] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:01:22.250] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[08:01:22.250] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:01:28.961] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:01:29.152] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:01:29.152] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:01:29.152] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:01:58.796] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:01:58.974] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[08:01:58.974] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:01:58.974] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:01:58.974] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[10:59:12.210] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[10:59:12.376] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[10:59:12.376] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[10:59:20.156] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[10:59:20.322] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[10:59:20.322] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[10:59:20.322] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[10:59:20.322] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:13:51.776] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[11:13:51.979] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:13:51.979] Browser WARN    Image with src "/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:13:51.979] Browser WARN    Image with src "/assets/images/bg-section/agenticai.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:16:38.780] Server  LOG     ✓ Compiled in 1586ms

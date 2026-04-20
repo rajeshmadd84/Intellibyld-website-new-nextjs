@@ -21,12 +21,19 @@ __turbopack_context__.s([
     ()=>Cta
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.react-server.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react.js [app-rsc] (ecmascript)");
 ;
 ;
-function Cta() {
+;
+function Cta({ overlapFollowingSection = true }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "cta",
+        style: overlapFollowingSection ? undefined : {
+            marginTop: "50px",
+            marginBottom: "50px",
+            zIndex: "auto"
+        },
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "themesflat-container",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -34,168 +41,127 @@ function Cta() {
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "col-12",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "cta-wrapper",
+                        className: "cta-wrapper cta-split-cols",
+                        style: {
+                            paddingTop: 48
+                        },
                         children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "ellipse item1"
-                            }, void 0, false, {
-                                fileName: "[project]/components/common/Cta.jsx",
-                                lineNumber: 10,
-                                columnNumber: 15
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "ellipse item2"
-                            }, void 0, false, {
-                                fileName: "[project]/components/common/Cta.jsx",
-                                lineNumber: 11,
-                                columnNumber: 15
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "ellipse item3"
-                            }, void 0, false, {
-                                fileName: "[project]/components/common/Cta.jsx",
-                                lineNumber: 12,
-                                columnNumber: 15
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "ellipse item4"
-                            }, void 0, false, {
-                                fileName: "[project]/components/common/Cta.jsx",
-                                lineNumber: 13,
-                                columnNumber: 15
-                            }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "cta-title",
                                 children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
-                                        children: "Get More Update"
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/common/Cta.jsx",
-                                        lineNumber: 15,
-                                        columnNumber: 17
-                                    }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                        style: {
+                                            fontFamily: '"Space Grotesk", sans-serif',
+                                            marginTop: 0,
+                                            marginBottom: 0
+                                        },
                                         children: [
-                                            "Sign Up for Your Free ",
+                                            "Stop Pricing in ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/components/common/Cta.jsx",
-                                                lineNumber: 17,
-                                                columnNumber: 41
+                                                lineNumber: 30,
+                                                columnNumber: 35
                                             }, this),
-                                            "MunAi ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "animation-text",
-                                                children: "Account!"
+                                                style: {
+                                                    fontFamily: '"Space Grotesk", sans-serif',
+                                                    fontStyle: "normal"
+                                                },
+                                                children: "Uncertainty!"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/common/Cta.jsx",
-                                                lineNumber: 18,
-                                                columnNumber: 25
+                                                lineNumber: 31,
+                                                columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/common/Cta.jsx",
-                                        lineNumber: 16,
+                                        lineNumber: 23,
+                                        columnNumber: 17
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
+                                        style: {
+                                            marginTop: 19,
+                                            marginBottom: 0
+                                        },
+                                        children: "Secure your margins with Ground-Truth Data."
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/common/Cta.jsx",
+                                        lineNumber: 41,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/common/Cta.jsx",
-                                lineNumber: 14,
+                                lineNumber: 22,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "cta-content",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        children: [
-                                            "Sed ut perspiciatis unde omnis natus sit voluptate ",
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                                fileName: "[project]/components/common/Cta.jsx",
-                                                lineNumber: 23,
-                                                columnNumber: 70
-                                            }, this),
-                                            "totam rem aperiam eaque inventore"
-                                        ]
-                                    }, void 0, true, {
+                                        children: "The standard 5%–10% contingency buffer is no longer competitive in Singapore’s 2026 landscape. IntelliByld eliminates the guesswork by solving the 'just-in-case' storage costs and idle machinery delays that inflate your Tender Price Index (TPI)."
+                                    }, void 0, false, {
                                         fileName: "[project]/components/common/Cta.jsx",
-                                        lineNumber: 22,
+                                        lineNumber: 44,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "flex gap20",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "#",
-                                                className: "tf-button style-1",
-                                                children: [
-                                                    "Start Your Trial Now ",
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                        className: "icon-arrow-right2"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/components/common/Cta.jsx",
-                                                        lineNumber: 28,
-                                                        columnNumber: 42
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/components/common/Cta.jsx",
-                                                lineNumber: 27,
-                                                columnNumber: 19
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "#",
-                                                className: "tf-button style-1 active",
-                                                children: [
-                                                    "Contact Us ",
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                        className: "icon-arrow-right2"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/components/common/Cta.jsx",
-                                                        lineNumber: 31,
-                                                        columnNumber: 32
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/components/common/Cta.jsx",
-                                                lineNumber: 30,
-                                                columnNumber: 19
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                            href: "/pilot",
+                                            className: "tf-button style-1",
+                                            children: [
+                                                "Get Started ",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                    className: "icon-arrow-right2"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/common/Cta.jsx",
+                                                    lineNumber: 50,
+                                                    columnNumber: 33
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/components/common/Cta.jsx",
+                                            lineNumber: 49,
+                                            columnNumber: 19
+                                        }, this)
+                                    }, void 0, false, {
                                         fileName: "[project]/components/common/Cta.jsx",
-                                        lineNumber: 26,
+                                        lineNumber: 48,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/common/Cta.jsx",
-                                lineNumber: 21,
+                                lineNumber: 43,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/common/Cta.jsx",
-                        lineNumber: 9,
+                        lineNumber: 21,
                         columnNumber: 13
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/common/Cta.jsx",
-                    lineNumber: 8,
+                    lineNumber: 20,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/common/Cta.jsx",
-                lineNumber: 7,
+                lineNumber: 19,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/components/common/Cta.jsx",
-            lineNumber: 6,
+            lineNumber: 18,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/common/Cta.jsx",
-        lineNumber: 5,
+        lineNumber: 10,
         columnNumber: 5
     }, this);
 }
@@ -375,42 +341,42 @@ __turbopack_context__.s([
 const agenticAiTools = [
     {
         id: 1,
-        icon: "icon-setting",
+        icon: "/assets/images/icon-agenticai/rfq.png",
         title: "Autonomous RFQ Generation",
         description: "Our AI agents autonomously generate and dispatch RFQs to pre-qualified vendors, eliminating manual procurement bottlenecks.",
         order: "01"
     },
     {
         id: 2,
-        icon: "icon-chart-network",
+        icon: "/assets/images/icon-agenticai/evaluation.png",
         title: "Intelligent Bid Evaluation",
         description: "Agentic workflows compare vendor bids against project specs, historical pricing, and delivery reliability in real time.",
         order: "02"
     },
     {
         id: 3,
-        icon: "icon-maintenance",
+        icon: "/assets/images/icon-agenticai/shipment.png",
         title: "Shipment Orchestration",
         description: "AI agents monitor shipments end-to-end, automatically rerouting or escalating when delays or exceptions arise.",
         order: "03"
     },
     {
         id: 4,
-        icon: "icon-rocket-launch",
+        icon: "/assets/images/icon-agenticai/scheduling.png",
         title: "Predictive Scheduling",
         description: "Agents anticipate material needs weeks ahead by analysing project timelines, weather, and supplier lead times.",
         order: "04"
     },
     {
         id: 5,
-        icon: "icon-laptop-code",
+        icon: "/assets/images/icon-agenticai/caution-sign.png",
         title: "Exception Handling",
         description: "When something goes wrong, agentic AI triages the issue, proposes alternatives, and executes the approved fix autonomously.",
         order: "05"
     },
     {
         id: 6,
-        icon: "icon-gift",
+        icon: "/assets/images/icon-agenticai/learning.png",
         title: "Continuous Learning",
         description: "Every decision feeds back into the model, so the system gets smarter with each project your team delivers.",
         order: "06"
@@ -451,25 +417,25 @@ const agenticAiFeatures = [
 const agenticAiFlowchart = [
     {
         step: 1,
-        icon: "icon-setting",
+        icon: "/assets/images/icon-agenticai/shipment.png",
         title: "Detect & Flag",
         description: "Agents monitor live shipping, Email and WhatsApp logs to identify supplier delays before they reach the site."
     },
     {
         step: 2,
-        icon: "icon-chart-network",
+        icon: "/assets/images/icon-agenticai/evaluation.png",
         title: "Analyze Impact",
         description: "AI cross-references the Digital Twin to pinpoint every labor crew and task affected by the missing material."
     },
     {
         step: 3,
-        icon: "icon-maintenance",
+        icon: "/assets/images/icon-agenticai/scheduling.png",
         title: "Pivot & Re-align",
         description: "The system autonomously re-sequences the schedule, shifting crews to unaffected tasks to maintain momentum."
     },
     {
         step: 4,
-        icon: "icon-rocket-launch",
+        icon: "/assets/images/icon-agenticai/learning.png",
         title: "Sync & Track",
         description: "Automatically notifies stakeholders of changes while continuously tracking the delay until the site is back in sync."
     }
@@ -551,26 +517,12 @@ function Features() {
                                             lineNumber: 19,
                                             columnNumber: 17
                                         }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "flowchart-icon",
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                className: item.icon
-                                            }, void 0, false, {
-                                                fileName: "[project]/components/agentic-ai/Features.jsx",
-                                                lineNumber: 21,
-                                                columnNumber: 19
-                                            }, this)
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/agentic-ai/Features.jsx",
-                                            lineNumber: 20,
-                                            columnNumber: 17
-                                        }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                                             className: "flowchart-title",
                                             children: item.title
                                         }, void 0, false, {
                                             fileName: "[project]/components/agentic-ai/Features.jsx",
-                                            lineNumber: 23,
+                                            lineNumber: 20,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -578,7 +530,7 @@ function Features() {
                                             children: item.description
                                         }, void 0, false, {
                                             fileName: "[project]/components/agentic-ai/Features.jsx",
-                                            lineNumber: 24,
+                                            lineNumber: 21,
                                             columnNumber: 17
                                         }, this)
                                     ]
@@ -593,12 +545,12 @@ function Features() {
                                         className: "icon-arrow-right2"
                                     }, void 0, false, {
                                         fileName: "[project]/components/agentic-ai/Features.jsx",
-                                        lineNumber: 28,
+                                        lineNumber: 25,
                                         columnNumber: 19
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/agentic-ai/Features.jsx",
-                                    lineNumber: 27,
+                                    lineNumber: 24,
                                     columnNumber: 17
                                 }, this)
                             ]
@@ -789,7 +741,17 @@ function Tools() {
                                 className: "wg-tool wow fadeInUp",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: `icon ${tool.icon}`
+                                        className: "icon",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                            src: tool.icon,
+                                            alt: tool.title,
+                                            width: 48,
+                                            height: 48
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/agentic-ai/Tools.jsx",
+                                            lineNumber: 23,
+                                            columnNumber: 19
+                                        }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/agentic-ai/Tools.jsx",
                                         lineNumber: 22,
@@ -799,14 +761,14 @@ function Tools() {
                                         children: tool.title
                                     }, void 0, false, {
                                         fileName: "[project]/components/agentic-ai/Tools.jsx",
-                                        lineNumber: 23,
+                                        lineNumber: 25,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         children: tool.description
                                     }, void 0, false, {
                                         fileName: "[project]/components/agentic-ai/Tools.jsx",
-                                        lineNumber: 24,
+                                        lineNumber: 26,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -814,7 +776,7 @@ function Tools() {
                                         children: tool.order
                                     }, void 0, false, {
                                         fileName: "[project]/components/agentic-ai/Tools.jsx",
-                                        lineNumber: 25,
+                                        lineNumber: 27,
                                         columnNumber: 17
                                     }, this)
                                 ]
@@ -1055,7 +1017,9 @@ function AgenticAi() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     style: {
-                                        color: "#fff"
+                                        color: "#000000",
+                                        fontSize: "18px",
+                                        lineHeight: "30px"
                                     },
                                     children: [
                                         "Traditional software waits for you to tell it what happened. ",
@@ -1084,7 +1048,9 @@ function AgenticAi() {
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                     className: "list-item tick-white",
                                     style: {
-                                        color: "#fff"
+                                        color: "#fff",
+                                        fontSize: "18px",
+                                        lineHeight: "30px"
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1185,30 +1151,6 @@ function AgenticAi() {
                                     fileName: "[project]/components/agentic-ai/Agent1.jsx",
                                     lineNumber: 25,
                                     columnNumber: 15
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                    href: "/agentic-ai",
-                                    className: "tf-button style-2 mt-20",
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            children: "Learn more"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                            lineNumber: 49,
-                                            columnNumber: 17
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                            className: "icon-arrow-right2"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                            lineNumber: 50,
-                                            columnNumber: 17
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                    lineNumber: 48,
-                                    columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
@@ -1227,23 +1169,23 @@ function AgenticAi() {
                             className: "image wow fadeInUp",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                 className: "img-01",
-                                src: "/assets/images/bg-section/agenticai.jpg",
+                                src: "/assets/images/bg-section/agenticai1.png",
                                 alt: "image",
                                 width: 558,
                                 height: 522
                             }, void 0, false, {
                                 fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                                lineNumber: 56,
+                                lineNumber: 53,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                            lineNumber: 55,
+                            lineNumber: 52,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/agentic-ai/Agent1.jsx",
-                        lineNumber: 54,
+                        lineNumber: 51,
                         columnNumber: 11
                     }, this)
                 ]

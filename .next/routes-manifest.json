@@ -132,6 +132,12 @@
       "namedRegex": "^/home\\-4(?:/)?$"
     },
     {
+      "page": "/pilot",
+      "regex": "^/pilot(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/pilot(?:/)?$"
+    },
+    {
       "page": "/price",
       "regex": "^/price(?:/)?$",
       "routeKeys": {},

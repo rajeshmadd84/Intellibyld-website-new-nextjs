@@ -1,4 +1,5 @@
 import { sustainabilityFeatures } from "@/data/sustainability";
+import Image from "next/image";
 import React from "react";
 
 export default function Features() {
@@ -31,7 +32,13 @@ export default function Features() {
                 <div className="col-xl-4 col-6" key={index}>
                   <div className="wg-helpful text-center mb-30 wow fadeInUp">
                     <div className="image">
-                      <span className={item.icon} />
+                      <Image
+                        src={item.iconSrc}
+                        alt={item.iconAlt}
+                        width={56}
+                        height={56}
+                        style={{ objectFit: "contain" }}
+                      />
                     </div>
                     <h6>{item.title}</h6>
                   </div>

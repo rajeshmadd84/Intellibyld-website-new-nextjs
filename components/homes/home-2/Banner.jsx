@@ -25,10 +25,7 @@ export default function Banner() {
                   <span>Request Free Demo</span>
                   <i className="icon-arrow-right2" />
                 </a>
-                <a href="/pilot" className="tf-button style-2">
-                  <span>Try For Free</span>
-                  <i className="icon-arrow-right2" />
-                </a>
+               
               </div>
               
             </div>
@@ -40,8 +37,8 @@ export default function Banner() {
               <Image
                 src="/assets/images/bg-section/ib-hero1.jpg"
                 alt="image"
-                width={667}
-                height={416}
+                width={800}
+                height={549}
                 className="item-1"
               />
               

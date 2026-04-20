@@ -1,10 +1,8 @@
-import Cta from "@/components/common/Cta";
 import Mouse from "@/components/common/Mouse";
 import ScrollTop from "@/components/common/ScrollTop";
-import Footer1 from "@/components/footers/Footer1";
-import Header1 from "@/components/headers/Header1";
-import Faq from "@/components/sustainability/Faq";
-import Features from "@/components/sustainability/Features";
+import Footer2 from "@/components/footers/Footer2";
+import Header2 from "@/components/headers/Header2";
+import Sustainability1 from "@/components/sustainability/sustainability1";
 import FlatTitle from "@/components/sustainability/FlatTitle";
 import Tools from "@/components/sustainability/Tools";
 import React from "react";
@@ -20,13 +18,12 @@ export default function page() {
     <>
       <div id="wrapper">
         <div id="page" className="">
-          <Header1 />
+          <Header2 />
           <FlatTitle />
+          <Sustainability1 />
           <Tools />
-          <Features />
-          <Faq />
-          <Cta />
-          <Footer1 />
+          
+          <Footer2 />
         </div>
       </div>
       <Mouse />

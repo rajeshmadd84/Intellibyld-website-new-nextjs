@@ -1,7 +1,10 @@
+const iconBase = "/assets/images/sustainability-icons";
+
 export const sustainabilityTools = [
   {
     id: 1,
-    icon: "icon-chart-line",
+    iconSrc: `${iconBase}/tracking.png`,
+    iconAlt: "Carbon footprint tracking",
     title: "Carbon Footprint Tracking",
     description:
       "Automatically calculate Scope 1, 2, and 3 emissions across every material shipment and supplier in your project.",
@@ -9,7 +12,8 @@ export const sustainabilityTools = [
   },
   {
     id: 2,
-    icon: "icon-setting",
+    iconSrc: `${iconBase}/scoring.png`,
+    iconAlt: "Green supplier scoring",
     title: "Green Supplier Scoring",
     description:
       "Rate and rank vendors by sustainability metrics — carbon intensity, recycled content, and distance from site.",
@@ -17,7 +21,8 @@ export const sustainabilityTools = [
   },
   {
     id: 3,
-    icon: "icon-rocket-launch",
+    iconSrc: `${iconBase}/route.png`,
+    iconAlt: "Route optimisation",
     title: "Route Optimisation",
     description:
       "AI selects the lowest-emission delivery routes and consolidates shipments to reduce transport-related carbon output.",
@@ -25,7 +30,8 @@ export const sustainabilityTools = [
   },
   {
     id: 4,
-    icon: "icon-maintenance",
+    iconSrc: `${iconBase}/waste-reduction.png`,
+    iconAlt: "Waste reduction analytics",
     title: "Waste Reduction Analytics",
     description:
       "Track material waste at every stage and receive AI-driven recommendations to minimise over-ordering and site waste.",
@@ -33,7 +39,8 @@ export const sustainabilityTools = [
   },
   {
     id: 5,
-    icon: "icon-laptop-code",
+    iconSrc: `${iconBase}/esg-reporting.png`,
+    iconAlt: "ESG reporting",
     title: "ESG Reporting",
     description:
       "Generate audit-ready ESG reports with one click, aligned to GRI, TCFD, and regional construction sustainability standards.",
@@ -41,7 +48,8 @@ export const sustainabilityTools = [
   },
   {
     id: 6,
-    icon: "icon-gift",
+    iconSrc: `${iconBase}/circular-economy.png`,
+    iconAlt: "Circular economy insights",
     title: "Circular Economy Insights",
     description:
       "Identify opportunities to reuse, recycle, or repurpose materials across projects, closing the loop on construction waste.",
@@ -52,32 +60,38 @@ export const sustainabilityTools = [
 export const sustainabilityFeatures = [
   {
     id: 1,
-    icon: "icon-chart-line",
+    iconSrc: `${iconBase}/tracking.png`,
+    iconAlt: "Emissions dashboard",
     title: "Emissions Dashboard",
   },
   {
     id: 2,
-    icon: "icon-setting",
+    iconSrc: `${iconBase}/scoring.png`,
+    iconAlt: "Supplier sustainability scores",
     title: "Supplier Sustainability Scores",
   },
   {
     id: 3,
-    icon: "icon-rocket-launch",
+    iconSrc: `${iconBase}/route.png`,
+    iconAlt: "Low-carbon routing",
     title: "Low-Carbon Routing",
   },
   {
     id: 4,
-    icon: "icon-maintenance",
+    iconSrc: `${iconBase}/waste-reduction.png`,
+    iconAlt: "Waste analytics",
     title: "Waste Analytics",
   },
   {
     id: 5,
-    icon: "icon-laptop-code",
+    iconSrc: `${iconBase}/esg-reporting.png`,
+    iconAlt: "One-click ESG reports",
     title: "One-Click ESG Reports",
   },
   {
     id: 6,
-    icon: "icon-gift",
+    iconSrc: `${iconBase}/circular-economy.png`,
+    iconAlt: "Circular economy tracking",
     title: "Circular Economy Tracking",
   },
 ];

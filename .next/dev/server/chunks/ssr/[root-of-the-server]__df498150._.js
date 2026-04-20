@@ -791,19 +791,19 @@ const listItems3 = [
 const features = [
     {
         id: 1,
-        icon: "icon-laptop-code",
+        icon: "/assets/images/features/ai.png",
         title: "Construction-Trained Intelligence",
         description: "Our Small Language Model(SLM) is fine-tuned specifically on construction data, allowing it to understand the deep nuances of project logistics and make high-stakes autonomous decisions."
     },
     {
         id: 2,
-        icon: "icon-rocket-launch",
+        icon: "/assets/images/features/real-time.png",
         title: "Real-Time Digital Twins",
         description: "We build a live virtual map of every material's journey. Spot threats and identify opportunities before they disrupt your site, keeping your schedule perfectly in sync."
     },
     {
         id: 3,
-        icon: "icon-gift",
+        icon: "/assets/images/features/bot.png",
         title: "Agentic Workflow Automation",
         description: "Seamlessly integrate with BIM, ERP, and PM software. Our Agentic AI automates RFQs, shipment tracking, and bidding evaluations so your team can focus on building."
     }

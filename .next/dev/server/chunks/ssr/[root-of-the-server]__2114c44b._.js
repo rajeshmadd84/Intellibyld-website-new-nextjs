@@ -517,7 +517,7 @@ function DigitalTwin1() {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "themesflat-container",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "row",
+                className: "row align-items-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "col-lg-6",
@@ -526,42 +526,82 @@ function DigitalTwin1() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "heading-section wow fadeInUp style-1",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "main-title",
-                                        style: {
-                                            color: "#000"
-                                        },
-                                        children: [
-                                            "Closing the Reality Gap",
-                                            " ",
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                                fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
-                                                lineNumber: 15,
-                                                columnNumber: 47
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "animation-text tf-color-green",
-                                                children: "with Real-Time Digital Twins"
-                                            }, void 0, false, {
-                                                fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
-                                                lineNumber: 16,
-                                                columnNumber: 19
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
-                                        lineNumber: 14,
-                                        columnNumber: 17
-                                    }, this)
-                                }, void 0, false, {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
+                                            className: "tf-color-green",
+                                            children: "What is it?"
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
+                                            lineNumber: 13,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "main-title",
+                                            style: {
+                                                color: "#000",
+                                                fontSize: "36px",
+                                                lineHeight: "52px"
+                                            },
+                                            children: [
+                                                "Not a BIM model. Not a dashboard.",
+                                                " ",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                    fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
+                                                    lineNumber: 15,
+                                                    columnNumber: 58
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "animation-text tf-color-green",
+                                                    children: "A living replica of your project's operational reality."
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
+                                                    lineNumber: 16,
+                                                    columnNumber: 19
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
+                                            lineNumber: 14,
+                                            columnNumber: 17
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
                                     fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
                                     lineNumber: 12,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "",
-                                    children: "Most digital models are out of date the moment construction begins. Intellibyld’s Living Digital Twin creates a high fidelity bridge between your planning office and the active job site. By continuously ingesting data from thousands of fragmented sources ranging from global shipping logs to WhatsApp site diaries. Our AI ensures your BIM model is a live reflection of physical reality, not a historical design document."
-                                }, void 0, false, {
+                                    style: {
+                                        color: "#000000",
+                                        fontSize: "18px",
+                                        lineHeight: "30px"
+                                    },
+                                    children: [
+                                        "A Supply Chain Digital Twin is a continuously updated virtual model of everything that feeds your construction site materials in transit, workforce on the ground, equipment on site, and the communications that connect them all.",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                            fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
+                                            lineNumber: 23,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                            fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
+                                            lineNumber: 23,
+                                            columnNumber: 21
+                                        }, this),
+                                        "Unlike a BIM model, which captures design intent and freezes the moment construction begins, IntelliByld's Digital Twin captures execution reality and updates itself in real time as that reality changes.",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                            fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
+                                            lineNumber: 25,
+                                            columnNumber: 16
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                            fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
+                                            lineNumber: 25,
+                                            columnNumber: 22
+                                        }, this),
+                                        "Unlike a dashboard, which shows you what has already happened, the Digital Twin knows what is about to happen — because it is watching every signal across your supply chain, your site communications, and your operational schedule simultaneously."
+                                    ]
+                                }, void 0, true, {
                                     fileName: "[project]/components/digital-twins/DigitalTwin1.jsx",
                                     lineNumber: 21,
                                     columnNumber: 15
@@ -677,25 +717,37 @@ function DigitalTwin2() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "heading-section wow fadeInUp style-1",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "main-title",
-                                        style: {
-                                            color: "#000"
-                                        },
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: "animation-text tf-color-green",
-                                            children: "The Digital Nervous System"
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
+                                            style: {
+                                                color: "red"
+                                            },
+                                            children: "What IntelliByld's Digital Twin Actually Is"
                                         }, void 0, false, {
                                             fileName: "[project]/components/digital-twins/DigitalTwin2.jsx",
-                                            lineNumber: 27,
-                                            columnNumber: 19
+                                            lineNumber: 24,
+                                            columnNumber: 17
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "main-title",
+                                            style: {
+                                                color: "#000"
+                                            },
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                className: "animation-text tf-color-green",
+                                                children: "Every material. Every supplier. Every shipment. Live."
+                                            }, void 0, false, {
+                                                fileName: "[project]/components/digital-twins/DigitalTwin2.jsx",
+                                                lineNumber: 27,
+                                                columnNumber: 19
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/digital-twins/DigitalTwin2.jsx",
+                                            lineNumber: 25,
+                                            columnNumber: 17
                                         }, this)
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/digital-twins/DigitalTwin2.jsx",
-                                        lineNumber: 25,
-                                        columnNumber: 17
-                                    }, this)
-                                }, void 0, false, {
+                                    ]
+                                }, void 0, true, {
                                     fileName: "[project]/components/digital-twins/DigitalTwin2.jsx",
                                     lineNumber: 23,
                                     columnNumber: 15
@@ -704,44 +756,36 @@ function DigitalTwin2() {
                                     style: {
                                         fontStyle: "italic",
                                         marginBottom: "20px",
-                                        color: "#555"
+                                        color: "#000000"
                                     },
-                                    children: "Closing the loop between procurement and installation, because a building shouldn't be a puzzle with missing pieces."
+                                    children: "IntelliByld's Supply Chain Digital Twin is a continuously updated virtual model of your project's entire material and supplier ecosystem."
                                 }, void 0, false, {
                                     fileName: "[project]/components/digital-twins/DigitalTwin2.jsx",
                                     lineNumber: 32,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "",
-                                    children: "Legacy BIM models typically stop at the site boundary, leaving the most volatile part of the project - the global supply chain - in the dark. Intellibyld’s Digital Twin extends its reach into the entire lifecycle of your materials, creating a single thread of truth from the factory floor to the final installation point."
-                                }, void 0, false, {
-                                    fileName: "[project]/components/digital-twins/DigitalTwin2.jsx",
-                                    lineNumber: 35,
-                                    columnNumber: 15
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                    href: "/agentic-ai",
-                                    className: "tf-button style-2 mt-20",
+                                    style: {
+                                        color: "#000000",
+                                        fontSize: "18px",
+                                        lineHeight: "30px"
+                                    },
                                     children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            children: "Learn more"
-                                        }, void 0, false, {
+                                        "It links every supplier, shipment, delivery, and procurement event to your master project schedule — so you always know which materials are on track, which are at risk, and what the downstream impact will be if something goes wrong.",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/components/digital-twins/DigitalTwin2.jsx",
-                                            lineNumber: 41,
+                                            lineNumber: 38,
                                             columnNumber: 17
                                         }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                            className: "icon-arrow-right2"
-                                        }, void 0, false, {
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/components/digital-twins/DigitalTwin2.jsx",
-                                            lineNumber: 42,
+                                            lineNumber: 39,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/digital-twins/DigitalTwin2.jsx",
-                                    lineNumber: 40,
+                                    lineNumber: 36,
                                     columnNumber: 15
                                 }, this)
                             ]
@@ -1099,19 +1143,19 @@ const listItems3 = [
 const features = [
     {
         id: 1,
-        icon: "icon-laptop-code",
+        icon: "/assets/images/features/ai.png",
         title: "Construction-Trained Intelligence",
         description: "Our Small Language Model(SLM) is fine-tuned specifically on construction data, allowing it to understand the deep nuances of project logistics and make high-stakes autonomous decisions."
     },
     {
         id: 2,
-        icon: "icon-rocket-launch",
+        icon: "/assets/images/features/real-time.png",
         title: "Real-Time Digital Twins",
         description: "We build a live virtual map of every material's journey. Spot threats and identify opportunities before they disrupt your site, keeping your schedule perfectly in sync."
     },
     {
         id: 3,
-        icon: "icon-gift",
+        icon: "/assets/images/features/bot.png",
         title: "Agentic Workflow Automation",
         description: "Seamlessly integrate with BIM, ERP, and PM software. Our Agentic AI automates RFQs, shipment tracking, and bidding evaluations so your team can focus on building."
     }

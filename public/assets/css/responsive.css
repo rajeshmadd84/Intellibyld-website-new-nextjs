@@ -213,7 +213,9 @@
         display: none;
     }
     .wg-banner-2 .image {
-        height: 600px;
+        /* Room for .item-1: top 57px + height 549px + decor */
+        min-height: 640px;
+        height: auto;
     }
     .wg-helpful {
         padding: 35px 5px 27px;

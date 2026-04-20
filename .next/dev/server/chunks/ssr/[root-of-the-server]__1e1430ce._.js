@@ -204,57 +204,31 @@ function Banner() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "grid-button flex gap20 items-center mb-50",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "#",
-                                                className: "tf-button style-2",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        children: "Request Free Demo"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                        lineNumber: 25,
-                                                        columnNumber: 19
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                        className: "icon-arrow-right2"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                        lineNumber: 26,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                lineNumber: 24,
-                                                columnNumber: 17
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "#",
-                                                className: "tf-button style-2",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        children: "Try For Free"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                        lineNumber: 29,
-                                                        columnNumber: 19
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                        className: "icon-arrow-right2"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                        lineNumber: 30,
-                                                        columnNumber: 19
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                                lineNumber: 28,
-                                                columnNumber: 17
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                            href: "/pilot",
+                                            className: "tf-button style-2",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    children: "Request Free Demo"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/homes/home-2/Banner.jsx",
+                                                    lineNumber: 25,
+                                                    columnNumber: 19
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
+                                                    className: "icon-arrow-right2"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/homes/home-2/Banner.jsx",
+                                                    lineNumber: 26,
+                                                    columnNumber: 19
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/components/homes/home-2/Banner.jsx",
+                                            lineNumber: 24,
+                                            columnNumber: 17
+                                        }, this)
+                                    }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Banner.jsx",
                                         lineNumber: 23,
                                         columnNumber: 15
@@ -279,14 +253,14 @@ function Banner() {
                                         className: "item-3"
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                        lineNumber: 38,
+                                        lineNumber: 35,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "item-4"
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                        lineNumber: 39,
+                                        lineNumber: 36,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -297,18 +271,18 @@ function Banner() {
                                         className: "item-1"
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                        lineNumber: 40,
+                                        lineNumber: 37,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/homes/home-2/Banner.jsx",
-                                lineNumber: 37,
+                                lineNumber: 34,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/homes/home-2/Banner.jsx",
-                            lineNumber: 36,
+                            lineNumber: 33,
                             columnNumber: 11
                         }, this)
                     ]
@@ -631,7 +605,9 @@ function DigitalTwin() {
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "",
+                                        style: {
+                                            color: "#fff"
+                                        },
                                         children: "Traditional BIM models are static snapshots. Intellibyld creates a dynamic, virtual replica of your construction supply chain that evolves in real-time. By linking every material movement to your master project schedule, we eliminate the “Integration Trap” and ensure your digital model perfectly mirrors your physical site reality."
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/DigitalTwin.jsx",
@@ -914,7 +890,9 @@ function AgenticAi() {
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "",
+                                    style: {
+                                        color: "#fff"
+                                    },
                                     children: 'Stop wasting your team\'s potential on the "Integration Trap." While legacy systems require manual data entry and constant oversight, Intellibyld’s Agentic AI acts as a tireless digital workforce. It autonomously manages the complex coordination between your BIM models, ERP data, and thousands of supplier interactions, making real-time decisions that keep your project on track.'
                                 }, void 0, false, {
                                     fileName: "[project]/components/homes/home-2/AgenticAi.jsx",
@@ -923,6 +901,9 @@ function AgenticAi() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                     className: "list-item tick-white",
+                                    style: {
+                                        color: "#fff"
+                                    },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                             children: [
@@ -1174,19 +1155,19 @@ const listItems3 = [
 const features = [
     {
         id: 1,
-        icon: "icon-laptop-code",
+        icon: "/assets/images/features/ai.png",
         title: "Construction-Trained Intelligence",
         description: "Our Small Language Model(SLM) is fine-tuned specifically on construction data, allowing it to understand the deep nuances of project logistics and make high-stakes autonomous decisions."
     },
     {
         id: 2,
-        icon: "icon-rocket-launch",
+        icon: "/assets/images/features/real-time.png",
         title: "Real-Time Digital Twins",
         description: "We build a live virtual map of every material's journey. Spot threats and identify opportunities before they disrupt your site, keeping your schedule perfectly in sync."
     },
     {
         id: 3,
-        icon: "icon-gift",
+        icon: "/assets/images/features/bot.png",
         title: "Agentic Workflow Automation",
         description: "Seamlessly integrate with BIM, ERP, and PM software. Our Agentic AI automates RFQs, shipment tracking, and bidding evaluations so your team can focus on building."
     }
@@ -1312,7 +1293,9 @@ function Doing() {
                             className: "heading-section wow fadeInUp style-1 text-center",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
-                                    className: "tf-color-green",
+                                    style: {
+                                        color: "#fff"
+                                    },
                                     children: "What is Intellibyld?"
                                 }, void 0, false, {
                                     fileName: "[project]/components/homes/home-2/Features.jsx",
@@ -1322,36 +1305,25 @@ function Doing() {
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "main-title",
                                     children: [
-                                        "The ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             className: "tf-color-green",
-                                            children: "AI Powered OS"
+                                            children: "Autonomous Execution "
                                         }, void 0, false, {
                                             fileName: "[project]/components/homes/home-2/Features.jsx",
                                             lineNumber: 13,
-                                            columnNumber: 21
+                                            columnNumber: 17
                                         }, this),
-                                        " that orchestrates your ",
+                                        "  ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/components/homes/home-2/Features.jsx",
                                             lineNumber: 14,
                                             columnNumber: 17
                                         }, this),
-                                        " construction supply chain through ",
+                                        " for Construction Supply Chains. ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/components/homes/home-2/Features.jsx",
                                             lineNumber: 14,
-                                            columnNumber: 58
-                                        }, this),
-                                        " ",
-                                        " ",
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: "animation-text tf-color-green",
-                                            children: "Autonomous Execution"
-                                        }, void 0, false, {
-                                            fileName: "[project]/components/homes/home-2/Features.jsx",
-                                            lineNumber: 16,
-                                            columnNumber: 17
+                                            columnNumber: 56
                                         }, this)
                                     ]
                                 }, void 0, true, {
@@ -1377,41 +1349,44 @@ function Doing() {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "icon",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: item.icon
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                            src: item.icon,
+                                            alt: item.title,
+                                            width: 48,
+                                            height: 48
                                         }, void 0, false, {
                                             fileName: "[project]/components/homes/home-2/Features.jsx",
-                                            lineNumber: 26,
+                                            lineNumber: 24,
                                             columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Features.jsx",
-                                        lineNumber: 25,
+                                        lineNumber: 23,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         children: item.title
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Features.jsx",
-                                        lineNumber: 28,
+                                        lineNumber: 26,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         children: item.description
                                     }, void 0, false, {
                                         fileName: "[project]/components/homes/home-2/Features.jsx",
-                                        lineNumber: 29,
+                                        lineNumber: 27,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/homes/home-2/Features.jsx",
-                                lineNumber: 24,
+                                lineNumber: 22,
                                 columnNumber: 15
                             }, this)
                         }, index, false, {
                             fileName: "[project]/components/homes/home-2/Features.jsx",
-                            lineNumber: 23,
+                            lineNumber: 21,
                             columnNumber: 13
                         }, this))
                 ]

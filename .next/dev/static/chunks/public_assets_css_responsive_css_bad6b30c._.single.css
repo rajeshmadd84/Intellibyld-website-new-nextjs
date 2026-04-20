@@ -257,7 +257,8 @@
   }
 
   .wg-banner-2 .image {
-    height: 600px;
+    height: auto;
+    min-height: 640px;
   }
 
   .wg-helpful {

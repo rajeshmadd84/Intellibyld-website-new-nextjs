@@ -18,11 +18,11 @@ export default function AgenticAi() {
                   </span>
                 </div>
               </div>
-              <p style={{ color: "#fff" }}>
+              <p style={{ color: "#000000", fontSize: "18px", lineHeight: "30px" }}>
                 Traditional software waits for you to tell it what happened. <strong>Intellibyld’s Agentic AI</strong> acts on its own to make sure your project stays on track. 
                 By unifying your BIM models, ERP data, and supplier communications into a single <strong>Autonomous Execution Layer</strong>, we’ve moved beyond simple dashboards to a system that proactively manages the heavy lifting of construction logistics.
               </p>
-              <ul className="list-item tick-white" style={{ color: "#fff" }}>
+              <ul className="list-item tick-white" style={{ color: "#fff", fontSize: "18px", lineHeight: "30px" }}>
                 <li>
                   <i className="icon-tick" style={{ color: "#fff" }} />
                   <span className="tf-color-green" style={{ fontWeight: 700 }}>
@@ -45,17 +45,14 @@ export default function AgenticAi() {
                   Fast-tracking RFQs and shipments.
                 </li>
               </ul>
-              <a href="/agentic-ai" className="tf-button style-2 mt-20">
-                <span>Learn more</span>
-                <i className="icon-arrow-right2" />
-              </a>
+              
             </div>
           </div>
           <div className="col-lg-6">
             <div className="image wow fadeInUp">
               <Image
                 className="img-01"
-                src="/assets/images/bg-section/agenticai.jpg"
+                src="/assets/images/bg-section/agenticai1.png"
                 alt="image"
                 width={558}
                 height={522}
