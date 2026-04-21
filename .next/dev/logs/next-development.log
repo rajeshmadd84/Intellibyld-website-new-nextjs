@@ -1,23 +1,7 @@
-[00:00:02.691] Server  LOG     ✓ Ready in 1935ms
-[00:00:04.841] Server  ERROR   ⨯ Error: Image Optimization using the default loader is not compatible with `{ output: 'export' }`.
-  Possible solutions:
-    - Remove `{ output: 'export' }` and run "next start" to run server mode including the Image Optimization API.
-    - Configure `{ images: { unoptimized: true } }` in `next.config.js` to disable the Image Optimization API.
-  Read more: https://nextjs.org/docs/messages/export-image-api
-[00:00:04.934] Server  ERROR   ⨯ Error: Image Optimization using the default loader is not compatible with `{ output: 'export' }`.
-  Possible solutions:
-    - Remove `{ output: 'export' }` and run "next start" to run server mode including the Image Optimization API.
-    - Configure `{ images: { unoptimized: true } }` in `next.config.js` to disable the Image Optimization API.
-  Read more: https://nextjs.org/docs/messages/export-image-api
-[00:00:05.317] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:05.513] Browser ERROR   uncaughtError: Error: Image Optimization using the default loader is not compatible with `{ output: 'export' }`.
-  Possible solutions:
-    - Remove `{ output: 'export' }` and run "next start" to run server mode including the Image Optimization API.
-    - Configure `{ images: { unoptimized: true } }` in `next.config.js` to disable the Image Optimization API.
-  Read more: https://nextjs.org/docs/messages/export-image-api
-[00:00:05.741] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:05.948] Browser ERROR   uncaughtError: Error: Image Optimization using the default loader is not compatible with `{ output: 'export' }`.
-  Possible solutions:
-    - Remove `{ output: 'export' }` and run "next start" to run server mode including the Image Optimization API.
-    - Configure `{ images: { unoptimized: true } }` in `next.config.js` to disable the Image Optimization API.
-  Read more: https://nextjs.org/docs/messages/export-image-api
+[00:00:02.660] Server  LOG     ✓ Ready in 1730ms
+[00:00:05.460] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.113] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:06.113] Browser WARN    Image with src "http://localhost:3001/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:06.213] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.473] Browser WARN    Image with src "http://localhost:3001/assets/images/logo/logo-white.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:06.473] Browser WARN    Image with src "http://localhost:3001/assets/images/bg-section/ib-hero1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.

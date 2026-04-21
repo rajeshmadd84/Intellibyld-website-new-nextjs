@@ -9,4 +9,4 @@
 :HL["/assets/images/icon-agenticai/scheduling.png","image"]
 :HL["/assets/images/icon-agenticai/caution-sign.png","image"]
 :HL["/assets/images/icon-agenticai/learning.png","image"]
-0:{"buildId":"zexfRkBtJ5XtuYkCYG88b","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"agentic-ai","paramType":null,"paramKey":"agentic-ai","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"W2O4eO3WX9XHU1VcYTpzd","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"agentic-ai","paramType":null,"paramKey":"agentic-ai","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

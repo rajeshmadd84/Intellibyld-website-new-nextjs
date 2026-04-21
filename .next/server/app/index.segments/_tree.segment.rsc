@@ -6,4 +6,4 @@
 :HL["/assets/images/features/ai.png","image"]
 :HL["/assets/images/features/real-time.png","image"]
 :HL["/assets/images/features/bot.png","image"]
-0:{"buildId":"zexfRkBtJ5XtuYkCYG88b","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"W2O4eO3WX9XHU1VcYTpzd","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
