@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(use-cases)/layout,_N_T_/(use-cases)/use-cases-details/layout,_N_T_/(use-cases)/use-cases-details/[id]/layout,_N_T_/(use-cases)/use-cases-details/[id]/page,_N_T_/use-cases-details/6"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KHVzZS1jYXNlcyk/use-cases-details/$d$id/__PAGE__",
+    "/!KHVzZS1jYXNlcyk/use-cases-details/$d$id",
+    "/!KHVzZS1jYXNlcyk/use-cases-details",
+    "/!KHVzZS1jYXNlcyk",
+    "/_index",
+    "/_head"
+  ]
+}

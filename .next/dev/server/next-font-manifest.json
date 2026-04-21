@@ -1,16 +1,6 @@
 {
   "app": {
-    "[project]/app/(homes)/home-1/page": [],
-    "[project]/app/(homes)/home-2/page": [],
-    "[project]/app/(homes)/home-3/page": [],
-    "[project]/app/(homes)/home-4/page": [],
-    "[project]/app/_not-found/page": [],
-    "[project]/app/agentic-ai/page": [],
-    "[project]/app/contact-us/page": [],
-    "[project]/app/digital-twins/page": [],
-    "[project]/app/page": [],
-    "[project]/app/pilot/page": [],
-    "[project]/app/sustainability/page": []
+    "[project]/app/page": []
   },
   "appUsingSizeAdjust": false,
   "pages": {},

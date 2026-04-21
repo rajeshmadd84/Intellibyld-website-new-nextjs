@@ -17,6 +17,12 @@ export const metadata = {
 };
 import React from "react";
 
+export function generateStaticParams() {
+  return useCases.map((useCase) => ({
+    id: String(useCase.id),
+  }));
+}
+
 export default function page({ params }) {
   const useCaseItem =
     useCases.filter((elm) => elm.id == params.id)[0] || useCases[0];

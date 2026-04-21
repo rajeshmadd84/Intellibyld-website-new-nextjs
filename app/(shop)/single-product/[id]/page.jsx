@@ -13,6 +13,13 @@ export const metadata = {
   title: "Single Product || MunAi - AI Writer & Copywriting Nextjs Template",
   description: "MunAi - AI Writer & Copywriting Nextjs Template",
 };
+
+export function generateStaticParams() {
+  return products.map((product) => ({
+    id: String(product.id),
+  }));
+}
+
 export default function Home({ params }) {
   const productItem =
     products.filter((elm) => elm.id == params.id)[0] || products[0];
