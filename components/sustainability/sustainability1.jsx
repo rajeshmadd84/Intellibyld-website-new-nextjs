@@ -47,7 +47,7 @@ export default function Sustainability1() {
             >
               <Image
                 className="img-01"
-                src="/assets/images/bg-section/sustainability1.png"
+                src="/assets/images/bg-section/sustainability1.webp"
                 alt="Sustainability"
                 width={420}
                 height={616}

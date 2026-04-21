@@ -47,7 +47,7 @@ export default function PilotPage() {
     <div className="pilot-page">
       <div className="pilot-bg">
         <img
-          src="/assets/images/bg-section/ib-hero1.jpg"
+          src="/assets/images/bg-section/ib-hero1.webp"
           alt=""
           className="pilot-bg-image"
         />

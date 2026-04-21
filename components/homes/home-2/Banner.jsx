@@ -35,7 +35,7 @@ export default function Banner() {
               <div className="item-3" />
               <div className="item-4" />
               <Image
-                src="/assets/images/bg-section/ib-hero1.jpg"
+                src="/assets/images/bg-section/ib-hero1.webp"
                 alt="image"
                 width={800}
                 height={549}

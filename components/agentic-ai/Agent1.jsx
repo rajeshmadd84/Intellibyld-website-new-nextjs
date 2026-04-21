@@ -70,7 +70,7 @@ export default function AgenticAi() {
             <div className="image wow fadeInUp">
               <Image
                 className="img-01"
-                src="/assets/images/bg-section/agenticai1.png"
+                src="/assets/images/bg-section/agenticai1.webp"
                 alt="image"
                 width={558}
                 height={522}

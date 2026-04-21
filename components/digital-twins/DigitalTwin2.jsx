@@ -19,7 +19,7 @@ export default function DigitalTwin2() {
             >
               <Image
                 className="img-01"
-                src="/assets/images/bg-section/dgtwin2.png"
+                src="/assets/images/bg-section/dgtwin2.webp"
                 alt="Supply chain digital twin"
                 width={560}
                 height={315}
